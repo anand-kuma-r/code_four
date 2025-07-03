@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ffmpeg-python
+celery
+redis
+python-multipart
+aiofiles
+google-generativeai
+requests
+sqlalchemy
+python-dotenv

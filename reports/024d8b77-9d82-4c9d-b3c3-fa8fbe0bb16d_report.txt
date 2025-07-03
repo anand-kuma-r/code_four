@@ -1,0 +1,1540 @@
+
+VIDEO ANALYSIS REPORT
+=====================
+Generated: 2025-07-03 10:56:26
+Total Segments Analyzed: 6
+
+EXECUTIVE SUMMARY
+=================
+This report contains a chronological analysis of the submitted video evidence, 
+broken down into 5-minute segments for detailed review.
+
+DETAILED ANALYSIS
+=================
+
+SEGMENT 1 (Minutes 0-5)
+========================================
+[ 0m0s694ms - 0m1s744ms ] It's fine, honey.
+[ 0m2s414ms - 0m4s964ms ] You have five minutes left to live.
+[ 0m4s964ms - 0m6s264ms ] Uh, okay.
+[ 0m6s264ms - 0m8s64ms ] So, are you gonna tell us what we should be celebrating?
+[ 0m8s64ms - 0m8s964ms ] Don't worry about it, sweetheart.
+[ 0m9s914ms - 0m10s994ms ] May the universe have mercy on you.
+[ 0m10s794ms - 0m14s764ms ] I don't know what that secret ingredient is, but the customers just love your burgers.
+[ 0m14s864ms - 0m16s384ms ] The secret ingredient is love.
+[ 0m23s217ms - 0m27s67ms ] The board wants you as our new CEO.
+[ 0m27s37ms - 0m28s707ms ] There's only one problem.
+[ 0m28s707ms - 0m31s47ms ] You still have parts.
+[ 0m32s486ms - 0m33s466ms ] Oh, a singing telegram.
+[ 0m35s36ms - 0m42s946ms ] Hello, my darling. Hello, my baby. This is from the IRS. You better pay it. They're getting serious. Your home will be repossessed.
+[ 0m43s506ms - 0m44s116ms ] Here you go.
+[ 0m44s706ms - 0m45s36ms ] What?
+[ 0m48s776ms - 0m49s536ms ] A party!
+[ 0m49s536ms - 0m50s196ms ] I know it.
+[ 0m51s106ms - 0m51s236ms ] Whoa!
+[ 0m52s106ms - 0m52s666ms ] Ah!
+[ 0m52s666ms - 0m53s516ms ] Gumball, put out the fire!
+[ 0m54s56ms - 0m54s256ms ] Ah!
+[ 0m54s816ms - 0m55s396ms ] I'm on fire.
+[ 0m56s364ms - 0m59s204ms ] It's kind of difficult to organize a party if we don't know what it's for.
+[ 0m59s204ms - 0m59s534ms ] What?
+[ 1m2s674ms - 1m3s344ms ] Hmm.
+[ 1m5s70ms - 1m6s440ms ] Mmm, fluffy.
+[ 1m8s880ms - 1m10s980ms ] Hey, Idaho, my number one brotato.
+[ 1m11s400ms - 1m12s20ms ] How's it hanging?
+[ 1m12s20ms - 1m12s380ms ] Huh?
+[ 1m14s653ms - 1m16s863ms ] Ah!
+[ 1m17s693ms - 1m19s193ms ] do you think french fries are made of?
+[ 1m19s193ms - 1m19s823ms ] French people?
+[ 1m20s93ms - 1m21s563ms ] SMH, dude.
+[ 1m21s563ms - 1m22s193ms ] SMH.
+[ 1m22s193ms - 1m22s753ms ] Huh?
+[ 1m23s223ms - 1m23s473ms ] Huh?
+[ 1m24s103ms - 1m25s23ms ] Also potatoes.
+[ 1m25s23ms - 1m25s603ms ] Wedges?
+[ 1m25s603ms - 1m25s943ms ] Potato.
+[ 1m25s943ms - 1m26s403ms ] Hash browns?
+[ 1m26s403ms - 1m26s763ms ] Potato.
+[ 1m26s763ms - 1m27s153ms ] Potato tats?
+[ 1m27s153ms - 1m27s513ms ] Potato.
+[ 1m27s513ms - 1m28s13ms ] Croquettes?
+[ 1m28s13ms - 1m28s373ms ] Potato.
+[ 1m28s373ms - 1m29s13ms ] Patatas Bravas?
+[ 1m29s13ms - 1m29s443ms ] Potato.
+[ 1m29s443ms - 1m30s163ms ] Potato salad?
+[ 1m30s163ms - 1m31s23ms ] Potato.
+[ 1m31s23ms - 1m31s523ms ] Oh.
+[ 1m35s348ms - 1m35s698ms ] Oh.
+[ 1m36s586ms - 1m37s206ms ] Mmm.
+[ 1m38s726ms - 1m43s56ms ] You're giving me this food so I'll tell you the secret, aren't you?
+[ 1m43s466ms - 1m44s16ms ] Am I?
+[ 1m45s36ms - 1m45s476ms ] Aren't you?
+[ 1m46s816ms - 1m47s486ms ] Ah!
+[ 1m48s776ms - 1m49s596ms ] Ah!
+[ 1m49s786ms - 1m50s156ms ] Oh, man.
+[ 1m51s326ms - 1m52s896ms ] Oh, man.
+[ 1m53s526ms - 1m53s976ms ] Oh, man.
+[ 1m54s566ms - 1m55s236ms ] Ah.
+[ 1m55s236ms - 1m55s686ms ] Ah.
+[ 1m55s924ms - 1m56s164ms ] Here's the sugar.
+[ 1m56s594ms - 1m56s954ms ] Uh.
+[ 1m57s344ms - 1m57s544ms ] Mm.
+[ 1m57s544ms - 1m57s874ms ] Mm.
+[ 1m58s904ms - 1m59s204ms ] Uh.
+[ 1m59s204ms - 2m0s424ms ] Uh.
+[ 2m0s424ms - 2m1s64ms ] Uh.
+[ 2m1s64ms - 2m1s674ms ] Uh.
+[ 2m1s994ms - 2m2s234ms ] Ah.
+[ 2m2s394ms - 2m3s24ms ] Ah.
+[ 2m3s24ms - 2m4s104ms ] Ah.
+[ 2m4s104ms - 2m4s424ms ] Ah.
+[ 2m4s424ms - 2m5s164ms ] Ah.
+[ 2m5s164ms - 2m5s484ms ] Ah.
+[ 2m5s484ms - 2m6s64ms ] Ah.
+[ 2m6s64ms - 2m6s324ms ] Ah.
+[ 2m6s324ms - 2m6s894ms ] Ah.
+[ 2m6s894ms - 2m7s434ms ] Ah.
+[ 2m7s434ms - 2m7s754ms ] Ah.
+[ 2m7s754ms - 2m8s124ms ] Ah.
+[ 2m8s294ms - 2m8s624ms ] Ah.
+[ 2m8s624ms - 2m9s174ms ] Ah.
+[ 2m9s174ms - 2m9s484ms ] Ah.
+[ 2m9s484ms - 2m9s734ms ] Ah.
+[ 2m9s734ms - 2m10s344ms ] Ah.
+[ 2m10s344ms - 2m10s624ms ] Ah.
+[ 2m10s624ms - 2m10s894ms ] Yeah.
+[ 2m11s457ms - 2m14s377ms ] Uh.
+[ 2m14s377ms - 2m15s87ms ] Uh.
+[ 2m15s87ms - 2m16s387ms ] Uh.
+[ 2m16s387ms - 2m16s607ms ] Uh.
+[ 2m16s607ms - 2m17s187ms ] You taste terrible!
+[ 2m17s187ms - 2m17s927ms ] Uh.
+[ 2m17s927ms - 2m18s287ms ] Uh.
+[ 2m18s287ms - 2m19s147ms ] Uh.
+[ 2m19s147ms - 2m19s377ms ] Uh.
+[ 2m19s377ms - 2m19s647ms ] Uh.
+[ 2m20s776ms - 2m22s76ms ] I give you the McGuffin.
+[ 2m22s76ms - 2m22s706ms ] Ah!
+[ 2m23s256ms - 2m23s766ms ] Oh.
+[ 2m24s848ms - 2m25s178ms ] Hmm.
+[ 2m26s708ms - 2m29s158ms ] Oh, Richard, do you have the card?
+[ 2m29s158ms - 2m29s528ms ] Sure.
+[ 2m29s878ms - 2m30s168ms ] Thanks.
+[ 2m31s968ms - 2m32s308ms ] Wow.
+[ 2m33s908ms - 2m34s148ms ] Oh.
+[ 2m35s628ms - 2m36s508ms ] Cuz somebody has to pay for all this.
+[ 2m36s508ms - 2m37s878ms ] Oh, of course, allow me.
+[ 2m38s148ms - 2m38s368ms ] Whoops.
+[ 2m39s548ms - 2m40s78ms ] Hey, wait a minute.
+[ 2m40s78ms - 2m41s518ms ] This is a cracker.
+[ 2m42s688ms - 2m45s38ms ] Oh, you gotta be kidding me.
+[ 2m45s38ms - 2m45s188ms ] Go.
+[ 2m45s188ms - 2m45s288ms ] Oh.
+[ 2m47s407ms - 2m47s567ms ] Ah.
+[ 2m47s567ms - 2m48s107ms ] Ah.
+[ 2m48s107ms - 2m48s547ms ] Ah.
+[ 2m48s547ms - 2m49s187ms ] Ah.
+[ 2m49s187ms - 2m50s187ms ] Ah.
+[ 2m50s487ms - 2m50s697ms ] Ah.
+[ 2m51s97ms - 2m51s267ms ] Hmm.
+[ 2m51s267ms - 2m51s537ms ] Hmm.
+[ 2m51s537ms - 2m52s157ms ] Hmm.
+[ 2m52s157ms - 2m52s407ms ] Hmm.
+[ 2m52s407ms - 2m52s657ms ] Hmm.
+[ 2m52s657ms - 2m53s57ms ] Hmm.
+[ 2m53s57ms - 2m53s307ms ] Hmm.
+[ 2m53s307ms - 2m53s587ms ] Hmm.
+[ 2m53s587ms - 2m53s867ms ] Hmm.
+[ 2m53s867ms - 2m54s87ms ] Hmm.
+[ 2m54s87ms - 2m54s337ms ] Hmm.
+[ 2m54s337ms - 2m54s597ms ] Hmm.
+[ 2m54s597ms - 2m54s907ms ] Hmm.
+[ 2m54s907ms - 2m55s137ms ] Hmm.
+[ 2m55s137ms - 2m55s597ms ] Hmm.
+[ 2m55s597ms - 2m55s837ms ] Hmm.
+[ 2m55s837ms - 2m56s167ms ] Hmm.
+[ 2m56s167ms - 2m56s477ms ] Hmm.
+[ 2m56s477ms - 2m56s657ms ] Hmm.
+[ 2m56s657ms - 2m57s707ms ] Hmm.
+[ 2m57s707ms - 2m58s317ms ] Hmm.
+[ 2m58s437ms - 2m59s207ms ] Hmm.
+[ 2m59s207ms - 2m59s557ms ] Hmm.
+[ 2m59s557ms - 3m0s117ms ] Hmm.
+[ 3m0s117ms - 3m0s367ms ] Hmm.
+[ 3m0s367ms - 3m0s647ms ] Hmm.
+[ 3m0s647ms - 3m0s887ms ] Hmm.
+[ 3m0s887ms - 3m1s187ms ] Hmm.
+[ 3m1s187ms - 3m1s487ms ] Hmm.
+[ 3m1s487ms - 3m1s767ms ] Hmm.
+[ 3m1s767ms - 3m2s237ms ] Hmm.
+[ 3m2s237ms - 3m2s577ms ] Hmm.
+[ 3m2s577ms - 3m2s817ms ] Hmm.
+[ 3m2s817ms - 3m3s117ms ] Hmm.
+[ 3m3s117ms - 3m3s417ms ] Hmm.
+[ 3m3s417ms - 3m3s727ms ] Hmm.
+[ 3m3s727ms - 3m4s187ms ] Hmm.
+[ 3m4s187ms - 3m4s477ms ] Hmm.
+[ 3m4s477ms - 3m4s787ms ] Hmm.
+[ 3m4s787ms - 3m5s147ms ] Hmm.
+[ 3m5s147ms - 3m5s467ms ] Hmm.
+[ 3m5s467ms - 3m5s737ms ] Hmm.
+[ 3m5s737ms - 3m6s47ms ] Hmm.
+[ 3m6s47ms - 3m6s267ms ] Hmm.
+[ 3m6s267ms - 3m6s527ms ] Hmm.
+[ 3m6s527ms - 3m6s727ms ] Hmm.
+[ 3m6s727ms - 3m7s47ms ] Hmm.
+[ 3m7s47ms - 3m7s337ms ] Hmm.
+[ 3m7s337ms - 3m7s667ms ] Hmm.
+[ 3m7s667ms - 3m8s27ms ] Hmm.
+[ 3m8s27ms - 3m8s307ms ] Hmm.
+[ 3m8s307ms - 3m8s597ms ] Hmm.
+[ 3m8s597ms - 3m8s887ms ] Hmm.
+[ 3m8s887ms - 3m9s117ms ] Hmm.
+[ 3m9s117ms - 3m9s407ms ] Hmm.
+[ 3m9s407ms - 3m9s627ms ] Hmm.
+[ 3m9s627ms - 3m9s907ms ] Hmm.
+[ 3m9s907ms - 3m10s197ms ] Hmm.
+[ 3m10s197ms - 3m10s527ms ] Hmm.
+[ 3m10s527ms - 3m10s737ms ] Hmm.
+[ 3m10s737ms - 3m11s67ms ] Hmm.
+[ 3m11s67ms - 3m11s327ms ] Hmm.
+[ 3m11s327ms - 3m11s607ms ] Hmm.
+[ 3m11s607ms - 3m11s847ms ] Hmm.
+[ 3m11s847ms - 3m12s237ms ] Hmm.
+[ 3m12s237ms - 3m12s507ms ] Hmm.
+[ 3m12s507ms - 3m12s777ms ] Hmm.
+[ 3m12s777ms - 3m13s107ms ] Hmm.
+[ 3m13s107ms - 3m13s377ms ] Hmm.
+[ 3m13s377ms - 3m13s647ms ] Hmm.
+[ 3m13s647ms - 3m14s37ms ] Hmm.
+[ 3m14s37ms - 3m14s227ms ] Hmm.
+[ 3m14s227ms - 3m14s497ms ] Hmm.
+[ 3m14s497ms - 3m14s807ms ] Hmm.
+[ 3m14s807ms - 3m15s47ms ] Hmm.
+[ 3m15s47ms - 3m15s337ms ] Hmm.
+[ 3m15s337ms - 3m15s607ms ] Hmm.
+[ 3m15s607ms - 3m15s897ms ] Hmm.
+[ 3m15s897ms - 3m16s177ms ] Hmm.
+[ 3m16s177ms - 3m16s487ms ] Hmm.
+[ 3m16s487ms - 3m16s747ms ] Hmm.
+[ 3m16s747ms - 3m17s17ms ] Hmm.
+[ 3m17s17ms - 3m17s277ms ] Hmm.
+[ 3m17s277ms - 3m17s547ms ] Hmm.
+[ 3m17s547ms - 3m17s787ms ] Hmm.
+[ 3m17s787ms - 3m18s27ms ] Hmm.
+[ 3m18s27ms - 3m18s267ms ] Hmm.
+[ 3m18s267ms - 3m18s577ms ] Hmm.
+[ 3m18s577ms - 3m18s837ms ] Hmm.
+[ 3m18s837ms - 3m19s27ms ] Hmm.
+[ 3m19s27ms - 3m19s327ms ] Hmm.
+[ 3m19s327ms - 3m19s597ms ] Hmm.
+[ 3m19s597ms - 3m19s837ms ] Hmm.
+[ 3m19s837ms - 3m20s97ms ] Hmm.
+[ 3m20s97ms - 3m20s407ms ] Hmm.
+[ 3m20s407ms - 3m20s667ms ] Hmm.
+[ 3m20s667ms - 3m20s927ms ] Hmm.
+[ 3m20s927ms - 3m21s237ms ] Hmm.
+[ 3m21s237ms - 3m21s517ms ] Hmm.
+[ 3m21s517ms - 3m21s737ms ] Hmm.
+[ 3m21s737ms - 3m22s7ms ] Hmm.
+[ 3m22s7ms - 3m22s277ms ] Hmm.
+[ 3m22s277ms - 3m22s547ms ] Hmm.
+[ 3m22s547ms - 3m22s807ms ] Hmm.
+[ 3m22s807ms - 3m23s67ms ] Hmm.
+[ 3m23s67ms - 3m23s357ms ] Hmm.
+[ 3m23s357ms - 3m23s607ms ] Hmm.
+[ 3m23s607ms - 3m23s867ms ] Hmm.
+[ 3m23s867ms - 3m24s127ms ] Hmm.
+[ 3m24s127ms - 3m24s427ms ] Hmm.
+[ 3m24s427ms - 3m24s687ms ] Hmm.
+[ 3m24s687ms - 3m24s947ms ] Hmm.
+[ 3m24s947ms - 3m25s207ms ] Hmm.
+[ 3m25s207ms - 3m25s477ms ] Hmm.
+[ 3m25s477ms - 3m25s737ms ] Hmm.
+[ 3m25s737ms - 3m26s7ms ] Hmm.
+[ 3m26s7ms - 3m26s277ms ] Hmm.
+[ 3m26s277ms - 3m26s557ms ] Hmm.
+[ 3m26s557ms - 3m26s807ms ] Hmm.
+[ 3m26s807ms - 3m27s97ms ] Hmm.
+[ 3m27s97ms - 3m27s377ms ] Hmm.
+[ 3m27s377ms - 3m27s667ms ] Hmm.
+[ 3m27s667ms - 3m27s897ms ] Hmm.
+[ 3m27s897ms - 3m28s177ms ] Hmm.
+[ 3m28s177ms - 3m28s447ms ] Hmm.
+[ 3m28s447ms - 3m28s707ms ] Hmm.
+[ 3m28s707ms - 3m28s987ms ] Hmm.
+[ 3m28s987ms - 3m29s297ms ] Hmm.
+[ 3m29s297ms - 3m29s617ms ] Hmm.
+[ 3m29s617ms - 3m29s877ms ] Hmm.
+[ 3m29s877ms - 3m30s147ms ] Hmm.
+[ 3m30s147ms - 3m30s417ms ] Hmm.
+[ 3m30s417ms - 3m30s707ms ] Hmm.
+[ 3m30s707ms - 3m30s937ms ] Hmm.
+[ 3m30s937ms - 3m31s177ms ] Hmm.
+[ 3m31s177ms - 3m31s527ms ] Hmm.
+[ 3m31s527ms - 3m31s777ms ] Hmm.
+[ 3m31s777ms - 3m32s37ms ] Hmm.
+[ 3m32s37ms - 3m32s297ms ] Hmm.
+[ 3m32s297ms - 3m32s567ms ] Hmm.
+[ 3m32s567ms - 3m32s837ms ] Hmm.
+[ 3m32s837ms - 3m33s117ms ] Hmm.
+[ 3m33s117ms - 3m33s377ms ] Hmm.
+[ 3m33s377ms - 3m33s637ms ] Hmm.
+[ 3m33s637ms - 3m33s897ms ] Hmm.
+[ 3m33s897ms - 3m34s147ms ] Hmm.
+[ 3m34s147ms - 3m34s407ms ] Hmm.
+[ 3m34s407ms - 3m34s677ms ] Hmm.
+[ 3m34s677ms - 3m34s967ms ] Hmm.
+[ 3m34s967ms - 3m35s267ms ] Hmm.
+[ 3m35s267ms - 3m35s507ms ] Hmm.
+[ 3m35s507ms - 3m35s757ms ] Hmm.
+[ 3m35s757ms - 3m36s27ms ] Hmm.
+[ 3m36s27ms - 3m36s297ms ] Hmm.
+[ 3m36s297ms - 3m36s577ms ] Hmm.
+[ 3m36s577ms - 3m36s847ms ] Hmm.
+[ 3m36s847ms - 3m37s127ms ] Hmm.
+[ 3m37s127ms - 3m37s387ms ] Hmm.
+[ 3m37s387ms - 3m37s677ms ] Hmm.
+[ 3m37s677ms - 3m37s927ms ] Hmm.
+[ 3m37s927ms - 3m38s187ms ] Hmm.
+[ 3m38s187ms - 3m38s447ms ] Hmm.
+[ 3m38s447ms - 3m38s707ms ] Hmm.
+[ 3m38s707ms - 3m38s967ms ] Hmm.
+[ 3m38s967ms - 3m39s257ms ] Hmm.
+[ 3m39s257ms - 3m39s527ms ] Hmm.
+[ 3m39s527ms - 3m39s807ms ] Hmm.
+[ 3m39s807ms - 3m40s77ms ] Hmm.
+[ 3m40s77ms - 3m40s357ms ] Hmm.
+[ 3m40s357ms - 3m40s627ms ] Hmm.
+[ 3m40s627ms - 3m40s897ms ] Hmm.
+[ 3m40s897ms - 3m41s157ms ] Hmm.
+[ 3m41s157ms - 3m41s417ms ] Hmm.
+[ 3m41s417ms - 3m41s687ms ] Hmm.
+[ 3m41s687ms - 3m41s967ms ] Hmm.
+[ 3m41s967ms - 3m42s227ms ] Hmm.
+[ 3m42s227ms - 3m42s477ms ] Hmm.
+[ 3m42s477ms - 3m42s777ms ] Hmm.
+[ 3m42s777ms - 3m43s77ms ] Hmm.
+[ 3m43s77ms - 3m43s327ms ] Hmm.
+[ 3m43s327ms - 3m43s607ms ] Hmm.
+[ 3m43s607ms - 3m43s867ms ] Hmm.
+[ 3m43s867ms - 3m44s147ms ] Hmm.
+[ 3m44s147ms - 3m44s407ms ] Hmm.
+[ 3m44s407ms - 3m44s687ms ] Hmm.
+[ 3m44s687ms - 3m44s957ms ] Hmm.
+[ 3m44s957ms - 3m45s227ms ] Hmm.
+[ 3m45s227ms - 3m45s527ms ] Hmm.
+[ 3m45s527ms - 3m45s787ms ] Hmm.
+[ 3m45s787ms - 3m46s77ms ] Hmm.
+[ 3m46s77ms - 3m46s367ms ] Hmm.
+[ 3m46s367ms - 3m46s637ms ] Hmm.
+[ 3m46s637ms - 3m46s917ms ] Hmm.
+[ 3m46s917ms - 3m47s177ms ] Hmm.
+[ 3m47s177ms - 3m47s457ms ] Hmm.
+[ 3m47s457ms - 3m47s707ms ] Hmm.
+[ 3m47s707ms - 3m47s967ms ] Hmm.
+[ 3m47s967ms - 3m48s237ms ] Hmm.
+[ 3m48s237ms - 3m48s527ms ] Hmm.
+[ 3m48s527ms - 3m48s777ms ] Hmm.
+[ 3m48s777ms - 3m49s37ms ] Hmm.
+[ 3m49s37ms - 3m49s307ms ] Hmm.
+[ 3m49s307ms - 3m49s567ms ] Hmm.
+[ 3m49s567ms - 3m49s857ms ] Hmm.
+[ 3m49s857ms - 3m50s107ms ] Hmm.
+[ 3m50s107ms - 3m50s387ms ] Hmm.
+[ 3m50s387ms - 3m50s657ms ] Hmm.
+[ 3m50s657ms - 3m50s917ms ] Hmm.
+[ 3m50s917ms - 3m51s197ms ] Hmm.
+[ 3m51s197ms - 3m51s447ms ] Hmm.
+[ 3m51s447ms - 3m51s737ms ] Hmm.
+[ 3m51s737ms - 3m52s17ms ] Hmm.
+[ 3m52s17ms - 3m52s297ms ] Hmm.
+[ 3m52s297ms - 3m52s587ms ] Hmm.
+[ 3m52s587ms - 3m52s847ms ] Hmm.
+[ 3m52s847ms - 3m53s127ms ] Hmm.
+[ 3m53s127ms - 3m53s407ms ] Hmm.
+[ 3m53s407ms - 3m53s667ms ] Hmm.
+[ 3m53s667ms - 3m53s947ms ] Hmm.
+[ 3m53s947ms - 3m54s217ms ] Hmm.
+[ 3m54s217ms - 3m54s507ms ] Hmm.
+[ 3m54s507ms - 3m54s767ms ] Hmm.
+[ 3m54s767ms - 3m55s37ms ] Hmm.
+[ 3m55s37ms - 3m55s337ms ] Hmm.
+[ 3m55s337ms - 3m55s607ms ] Hmm.
+[ 3m55s607ms - 3m55s867ms ] Hmm.
+[ 3m55s867ms - 3m56s147ms ] Hmm.
+[ 3m56s147ms - 3m56s437ms ] Hmm.
+[ 3m56s437ms - 3m56s707ms ] Hmm.
+[ 3m56s707ms - 3m56s987ms ] Hmm.
+[ 3m56s987ms - 3m57s247ms ] Hmm.
+[ 3m57s247ms - 3m57s517ms ] Hmm.
+[ 3m57s517ms - 3m57s787ms ] Hmm.
+[ 3m57s787ms - 3m58s57ms ] Hmm.
+[ 3m58s57ms - 3m58s337ms ] Hmm.
+[ 3m58s337ms - 3m58s607ms ] Hmm.
+[ 3m58s607ms - 3m58s877ms ] Hmm.
+[ 3m58s877ms - 3m59s157ms ] Hmm.
+[ 3m59s157ms - 3m59s427ms ] Hmm.
+[ 3m59s427ms - 3m59s697ms ] Hmm.
+[ 3m59s697ms - 3m59s967ms ] Hmm.
+[ 3m59s967ms - 4m0s237ms ] Hmm.
+[ 4m0s237ms - 4m0s527ms ] Hmm.
+[ 4m0s527ms - 4m0s807ms ] Hmm.
+[ 4m0s807ms - 4m1s67ms ] Hmm.
+[ 4m1s67ms - 4m1s337ms ] Hmm.
+[ 4m1s337ms - 4m1s617ms ] Hmm.
+[ 4m1s617ms - 4m1s877ms ] Hmm.
+[ 4m1s877ms - 4m2s147ms ] Hmm.
+[ 4m2s147ms - 4m2s427ms ] Hmm.
+[ 4m2s427ms - 4m2s697ms ] Hmm.
+[ 4m2s697ms - 4m2s967ms ] Hmm.
+[ 4m2s967ms - 4m3s247ms ] Hmm.
+[ 4m3s247ms - 4m3s527ms ] Hmm.
+[ 4m3s527ms - 4m3s787ms ] Hmm.
+[ 4m3s787ms - 4m4s67ms ] Hmm.
+[ 4m4s67ms - 4m4s337ms ] Hmm.
+[ 4m4s337ms - 4m4s607ms ] Hmm.
+[ 4m4s607ms - 4m4s877ms ] Hmm.
+[ 4m4s877ms - 4m5s157ms ] Hmm.
+[ 4m5s157ms - 4m5s417ms ] Hmm.
+[ 4m5s417ms - 4m5s707ms ] Hmm.
+[ 4m5s707ms - 4m5s977ms ] Hmm.
+[ 4m5s977ms - 4m6s267ms ] Hmm.
+[ 4m6s267ms - 4m6s527ms ] Hmm.
+[ 4m6s527ms - 4m6s797ms ] Hmm.
+[ 4m6s797ms - 4m7s107ms ] Hmm.
+[ 4m7s107ms - 4m7s367ms ] Hmm.
+[ 4m7s367ms - 4m7s647ms ] Hmm.
+[ 4m7s647ms - 4m7s937ms ] Hmm.
+[ 4m7s937ms - 4m8s207ms ] Hmm.
+[ 4m8s207ms - 4m8s487ms ] Hmm.
+[ 4m8s487ms - 4m8s737ms ] Hmm.
+[ 4m8s737ms - 4m9s17ms ] Hmm.
+[ 4m9s17ms - 4m9s307ms ] Hmm.
+[ 4m9s307ms - 4m9s577ms ] Hmm.
+[ 4m9s577ms - 4m9s847ms ] Hmm.
+[ 4m9s847ms - 4m10s127ms ] Hmm.
+[ 4m10s127ms - 4m10s407ms ] Hmm.
+[ 4m10s407ms - 4m10s687ms ] Hmm.
+[ 4m10s687ms - 4m10s967ms ] Hmm.
+[ 4m10s967ms - 4m11s237ms ] Hmm.
+[ 4m11s237ms - 4m11s527ms ] Hmm.
+[ 4m11s527ms - 4m11s787ms ] Hmm.
+[ 4m11s787ms - 4m12s67ms ] Hmm.
+[ 4m12s67ms - 4m12s337ms ] Hmm.
+[ 4m12s337ms - 4m12s607ms ] Hmm.
+[ 4m12s607ms - 4m12s877ms ] Hmm.
+[ 4m12s877ms - 4m13s147ms ] Hmm.
+[ 4m13s147ms - 4m13s437ms ] Hmm.
+[ 4m13s437ms - 4m13s697ms ] Hmm.
+[ 4m13s697ms - 4m13s987ms ] Hmm.
+[ 4m13s987ms - 4m14s267ms ] Hmm.
+[ 4m14s267ms - 4m14s547ms ] Hmm.
+[ 4m14s547ms - 4m14s817ms ] Hmm.
+[ 4m14s817ms - 4m15s87ms ] Hmm.
+[ 4m15s87ms - 4m15s377ms ] Hmm.
+[ 4m15s377ms - 4m15s647ms ] Hmm.
+[ 4m15s647ms - 4m15s907ms ] Hmm.
+[ 4m15s907ms - 4m16s177ms ] Hmm.
+[ 4m16s177ms - 4m16s467ms ] Hmm.
+[ 4m16s467ms - 4m16s747ms ] Hmm.
+[ 4m16s747ms - 4m17s17ms ] Hmm.
+[ 4m17s17ms - 4m17s317ms ] Hmm.
+[ 4m17s317ms - 4m17s597ms ] Hmm.
+[ 4m17s597ms - 4m17s857ms ] Hmm.
+[ 4m17s857ms - 4m18s127ms ] Hmm.
+[ 4m18s127ms - 4m18s417ms ] Hmm.
+[ 4m18s417ms - 4m18s677ms ] Hmm.
+[ 4m18s677ms - 4m18s967ms ] Hmm.
+[ 4m18s967ms - 4m19s237ms ] Hmm.
+[ 4m19s237ms - 4m19s527ms ] Hmm.
+[ 4m19s527ms - 4m19s807ms ] Hmm.
+[ 4m19s807ms - 4m20s57ms ] Hmm.
+[ 4m20s57ms - 4m20s327ms ] Hmm.
+[ 4m20s327ms - 4m20s607ms ] Hmm.
+[ 4m20s607ms - 4m20s887ms ] Hmm.
+[ 4m20s887ms - 4m21s167ms ] Hmm.
+[ 4m21s167ms - 4m21s437ms ] Hmm.
+[ 4m21s437ms - 4m21s717ms ] Hmm.
+[ 4m21s717ms - 4m22s7ms ] Hmm.
+[ 4m22s7ms - 4m22s277ms ] Hmm.
+[ 4m22s277ms - 4m22s547ms ] Hmm.
+[ 4m22s547ms - 4m22s807ms ] Hmm.
+[ 4m22s807ms - 4m23s67ms ] Hmm.
+[ 4m23s67ms - 4m23s337ms ] Hmm.
+[ 4m23s337ms - 4m23s617ms ] Hmm.
+[ 4m23s617ms - 4m23s887ms ] Hmm.
+[ 4m23s887ms - 4m24s157ms ] Hmm.
+[ 4m24s157ms - 4m24s427ms ] Hmm.
+[ 4m24s427ms - 4m24s707ms ] Hmm.
+[ 4m24s707ms - 4m24s977ms ] Hmm.
+[ 4m24s977ms - 4m25s237ms ] Hmm.
+[ 4m25s237ms - 4m25s527ms ] Hmm.
+[ 4m25s527ms - 4m25s787ms ] Hmm.
+[ 4m25s787ms - 4m26s67ms ] Hmm.
+[ 4m26s67ms - 4m26s337ms ] Hmm.
+[ 4m26s337ms - 4m26s607ms ] Hmm.
+[ 4m26s607ms - 4m26s877ms ] Hmm.
+[ 4m26s877ms - 4m27s157ms ] Hmm.
+[ 4m27s157ms - 4m27s447ms ] Hmm.
+[ 4m27s447ms - 4m27s717ms ] Hmm.
+[ 4m27s717ms - 4m27s997ms ] Hmm.
+[ 4m27s997ms - 4m28s267ms ] Hmm.
+[ 4m28s267ms - 4m28s537ms ] Hmm.
+[ 4m28s537ms - 4m28s817ms ] Hmm.
+[ 4m28s817ms - 4m29s97ms ] Hmm.
+[ 4m29s97ms - 4m29s367ms ] Hmm.
+[ 4m29s367ms - 4m29s627ms ] Hmm.
+[ 4m29s627ms - 4m29s907ms ] Hmm.
+[ 4m29s907ms - 4m30s167ms ] Hmm.
+[ 4m30s167ms - 4m30s447ms ] Hmm.
+[ 4m30s447ms - 4m30s717ms ] Hmm.
+[ 4m30s717ms - 4m30s987ms ] Hmm.
+[ 4m30s987ms - 4m31s257ms ] Hmm.
+[ 4m31s257ms - 4m31s527ms ] Hmm.
+[ 4m31s527ms - 4m31s807ms ] Hmm.
+[ 4m31s807ms - 4m32s67ms ] Hmm.
+[ 4m32s67ms - 4m32s337ms ] Hmm.
+[ 4m32s337ms - 4m32s617ms ] Hmm.
+[ 4m32s617ms - 4m32s877ms ] Hmm.
+[ 4m32s877ms - 4m33s147ms ] Hmm.
+[ 4m33s147ms - 4m33s427ms ] Hmm.
+[ 4m33s427ms - 4m33s697ms ] Hmm.
+[ 4m33s697ms - 4m33s987ms ] Hmm.
+[ 4m33s987ms - 4m34s257ms ] Hmm.
+[ 4m34s257ms - 4m34s537ms ] Hmm.
+[ 4m34s537ms - 4m34s807ms ] Hmm.
+[ 4m34s807ms - 4m35s67ms ] Hmm.
+[ 4m35s67ms - 4m35s337ms ] Hmm.
+[ 4m35s337ms - 4m35s607ms ] Hmm.
+[ 4m35s607ms - 4m35s897ms ] Hmm.
+[ 4m35s897ms - 4m36s157ms ] Hmm.
+[ 4m36s157ms - 4m36s447ms ] Hmm.
+[ 4m36s447ms - 4m36s707ms ] Hmm.
+[ 4m36s707ms - 4m36s977ms ] Hmm.
+[ 4m36s977ms - 4m37s257ms ] Hmm.
+[ 4m37s257ms - 4m37s527ms ] Hmm.
+[ 4m37s527ms - 4m37s807ms ] Hmm.
+[ 4m37s807ms - 4m38s77ms ] Hmm.
+[ 4m38s77ms - 4m38s367ms ] Hmm.
+[ 4m38s367ms - 4m38s637ms ] Hmm.
+[ 4m38s637ms - 4m38s907ms ] Hmm.
+[ 4m38s907ms - 4m39s167ms ] Hmm.
+[ 4m39s167ms - 4m39s447ms ] Hmm.
+[ 4m39s447ms - 4m39s717ms ] Hmm.
+[ 4m39s717ms - 4m39s997ms ] Hmm.
+[ 4m39s997ms - 4m40s277ms ] Hmm.
+[ 4m40s277ms - 4m40s547ms ] Hmm.
+[ 4m40s547ms - 4m40s827ms ] Hmm.
+[ 4m40s827ms - 4m41s107ms ] Hmm.
+[ 4m41s107ms - 4m41s367ms ] Hmm.
+[ 4m41s367ms - 4m41s647ms ] Hmm.
+[ 4m41s647ms - 4m41s907ms ] Hmm.
+[ 4m41s907ms - 4m42s187ms ] Hmm.
+[ 4m42s187ms - 4m42s447ms ] Hmm.
+[ 4m42s447ms - 4m42s717ms ] Hmm.
+[ 4m42s717ms - 4m42s987ms ] Hmm.
+[ 4m42s987ms - 4m43s277ms ] Hmm.
+[ 4m43s277ms - 4m43s547ms ] Hmm.
+[ 4m43s547ms - 4m43s827ms ] Hmm.
+[ 4m43s827ms - 4m44s107ms ] Hmm.
+[ 4m44s107ms - 4m44s367ms ] Hmm.
+[ 4m44s367ms - 4m44s657ms ] Hmm.
+[ 4m44s657ms - 4m44s917ms ] Hmm.
+[ 4m44s917ms - 4m45s187ms ] Hmm.
+[ 4m45s187ms - 4m45s467ms ] Hmm.
+[ 4m45s467ms - 4m45s737ms ] Hmm.
+[ 4m45s737ms - 4m46s7ms ] Hmm.
+[ 4m46s7ms - 4m46s277ms ] Hmm.
+[ 4m46s277ms - 4m46s547ms ] Hmm.
+[ 4m46s547ms - 4m46s817ms ] Hmm.
+[ 4m46s817ms - 4m47s97ms ] Hmm.
+[ 4m47s97ms - 4m47s367ms ] Hmm.
+[ 4m47s367ms - 4m47s637ms ] Hmm.
+[ 4m47s637ms - 4m47s927ms ] Hmm.
+[ 4m47s927ms - 4m48s207ms ] Hmm.
+[ 4m48s207ms - 4m48s467ms ] Hmm.
+[ 4m48s467ms - 4m48s737ms ] Hmm.
+[ 4m48s737ms - 4m49s27ms ] Hmm.
+[ 4m49s27ms - 4m49s307ms ] Hmm.
+[ 4m49s307ms - 4m49s567ms ] Hmm.
+[ 4m49s567ms - 4m49s837ms ] Hmm.
+[ 4m49s837ms - 4m50s117ms ] Hmm.
+[ 4m50s117ms - 4m50s387ms ] Hmm.
+[ 4m50s387ms - 4m50s667ms ] Hmm.
+[ 4m50s667ms - 4m50s937ms ] Hmm.
+[ 4m50s937ms - 4m51s217ms ] Hmm.
+[ 4m51s217ms - 4m51s477ms ] Hmm.
+[ 4m51s477ms - 4m51s747ms ] Hmm.
+[ 4m51s747ms - 4m52s17ms ] Hmm.
+[ 4m52s17ms - 4m52s287ms ] Hmm.
+[ 4m52s287ms - 4m52s567ms ] Hmm.
+[ 4m52s567ms - 4m52s837ms ] Hmm.
+[ 4m52s837ms - 4m53s107ms ] Hmm.
+[ 4m53s107ms - 4m53s387ms ] Hmm.
+[ 4m53s387ms - 4m53s657ms ] Hmm.
+[ 4m53s657ms - 4m53s947ms ] Hmm.
+[ 4m53s947ms - 4m54s217ms ] Hmm.
+[ 4m54s217ms - 4m54s487ms ] Hmm.
+[ 4m54s487ms - 4m54s767ms ] Hmm.
+[ 4m54s767ms - 4m55s27ms ] Hmm.
+[ 4m55s27ms - 4m55s307ms ] Hmm.
+[ 4m55s307ms - 4m55s577ms ] Hmm.
+[ 4m55s577ms - 4m55s857ms ] Hmm.
+[ 4m55s857ms - 4m56s127ms ] Hmm.
+[ 4m56s127ms - 4m56s407ms ] Hmm.
+[ 4m56s407ms - 4m56s677ms ] Hmm.
+[ 4m56s677ms - 4m56s967ms ] Hmm.
+[ 4m56s967ms - 4m57s247ms ] Hmm.
+[ 4m57s247ms - 4m57s517ms ] Hmm.
+[ 4m57s517ms - 4m57s777ms ] Hmm.
+[ 4m57s777ms - 4m58s57ms ] Hmm.
+[ 4m58s57ms - 4m58s337ms ] Hmm.
+[ 4m58s337ms - 4m58s607ms ] Hmm.
+[ 4m58s607ms - 4m58s877ms ] Hmm.
+[ 4m58s877ms - 4m59s157ms ] Hmm.
+[ 4m59s157ms - 4m59s447ms ] Hmm.
+[ 4m59s447ms - 4m59s717ms ] Hmm.
+[ 4m59s717ms - 5m0s7ms ] Hmm.
+[ 5m0s7ms - 5m0s277ms ] Hmm.
+[ 5m0s277ms - 5m0s567ms ] Hmm.
+[ 5m0s567ms - 5m0s837ms ] Hmm.
+[ 5m0s837ms - 5m1s117ms ] Hmm.
+[ 5m1s117ms - 5m1s387ms ] Hmm.
+[ 5m1s387ms - 5m1s657ms ] Hmm.
+[ 5m1s657ms - 5m1s947ms ] Hmm.
+[ 5m1s947ms - 5m2s217ms ] Hmm.
+[ 5m2s217ms - 5m2s497ms ] Hmm.
+[ 5m2s497ms - 5m2s757ms ] Hmm.
+[ 5m2s757ms - 5m3s47ms ] Hmm.
+[ 5m3s47ms - 5m3s337ms ] Hmm.
+[ 5m3s337ms - 5m3s607ms ] Hmm.
+[ 5m3s607ms - 5m3s877ms ] Hmm.
+[ 5m3s877ms - 5m4s157ms ] Hmm.
+[ 5m4s157ms - 5m4s427ms ] Hmm.
+[ 5m4s427ms - 5m4s707ms ] Hmm.
+[ 5m4s707ms - 5m4s967ms ] Hmm.
+[ 5m4s967ms - 5m5s247ms ] Hmm.
+[ 5m5s247ms - 5m5s517ms ] Hmm.
+[ 5m5s517ms - 5m5s797ms ] Hmm.
+[ 5m5s797ms - 5m6s77ms ] Hmm.
+[ 5m6s77ms - 5m6s347ms ] Hmm.
+[ 5m6s347ms - 5m6s617ms ] Hmm.
+[ 5m6s617ms - 5m6s887ms ] Hmm.
+[ 5m6s887ms - 5m7s157ms ] Hmm.
+[ 5m7s157ms - 5m7s437ms ] Hmm.
+[ 5m7s437ms - 5m7s707ms ] Hmm.
+[ 5m7s707ms - 5m7s977ms ] Hmm.
+[ 5m7s977ms - 5m8s257ms ] Hmm.
+[ 5m8s257ms - 5m8s527ms ] Hmm.
+[ 5m8s527ms - 5m8s787ms ] Hmm.
+[ 5m8s787ms - 5m9s77ms ] Hmm.
+[ 5m9s77ms - 5m9s347ms ] Hmm.
+[ 5m9s347ms - 5m9s617ms ] Hmm.
+[ 5m9s617ms - 5m9s887ms ] Hmm.
+[ 5m9s887ms - 5m10s167ms ] Hmm.
+[ 5m10s167ms - 5m10s437ms ] Hmm.
+[ 5m10s437ms - 5m10s717ms ] Hmm.
+[ 5m10s717ms - 5m10s977ms ] Hmm.
+[ 5m10s977ms - 5m11s247ms ] Hmm.
+[ 5m11s247ms - 5m11s527ms ] Hmm.
+[ 5m11s527ms - 5m11s797ms ] Hmm.
+[ 5m11s797ms - 5m12s67ms ] Hmm.
+[ 5m12s67ms - 5m12s347ms ] Hmm.
+[ 5m12s347ms - 5m12s607ms ] Hmm.
+[ 5m12s607ms - 5m12s877ms ] Hmm.
+[ 5m12s877ms - 5m13s157ms ] Hmm.
+[ 5m13s157ms - 5m13s427ms ] Hmm.
+[ 5m13s427ms - 5m13s707ms ] Hmm.
+[ 5m13s707ms - 5m13s977ms ] Hmm.
+[ 5m13s977ms - 5m14s247ms ] Hmm.
+[ 5m14s247ms - 5m14s517ms ] Hmm.
+[ 5m14s517ms - 5m14s797ms ] Hmm.
+[ 5m14s797ms - 5m15s67ms ] Hmm.
+[ 5m15s67ms - 5m15s347ms ] Hmm.
+[ 5m15s347ms - 5m15s617ms ] Hmm.
+[ 5m15s617ms - 5m15s897ms ] Hmm.
+[ 5m15s897ms - 5m16s157ms ] Hmm.
+[ 5m16s157ms - 5m16s447ms ] Hmm.
+[ 5m16s447ms - 5m16s717ms ] Hmm.
+[ 5m16s717ms - 5m16s997ms ] Hmm.
+[ 5m16s997ms - 5m17s267ms ] Hmm.
+[ 5m17s267ms - 5m17s547ms ] Hmm.
+[ 5m17s547ms - 5m17s817ms ] Hmm.
+[ 5m17s817ms - 5m18s87ms ] Hmm.
+[ 5m18s87ms - 5m18s357ms ] Hmm.
+[ 5m18s357ms - 5m18s627ms ] Hmm.
+[ 5m18s627ms - 5m18s907ms ] Hmm.
+[ 5m18s907ms - 5m19s177ms ] Hmm.
+[ 5m19s177ms - 5m19s457ms ] Hmm.
+[ 5m19s457ms - 5m19s727ms ] Hmm.
+[ 5m19s727ms - 5m20s7ms ] Hmm.
+[ 5m20s7ms - 5m20s277ms ] Hmm.
+[ 5m20s277ms - 5m20s547ms ] Hmm.
+[ 5m20s547ms - 5m20s827ms ] Hmm.
+[ 5m20s827ms - 5m21s97ms ] Hmm.
+[ 5m21s97ms - 5m21s387ms ] Hmm.
+[ 5m21s387ms - 5m21s657ms ] Hmm.
+[ 5m21s657ms - 5m21s937ms ] Hmm.
+[ 5m21s937ms - 5m22s217ms ] Hmm.
+[ 5m22s217ms - 5m22s487ms ] Hmm.
+[ 5m22s487ms - 5m22s757ms ] Hmm.
+[ 5m22s757ms - 5m23s47ms ] Hmm.
+[ 5m23s47ms - 5m23s337ms ] Hmm.
+[ 5m23s337ms - 5m23s607ms ] Hmm.
+[ 5m23s607ms - 5m23s877ms ] Hmm.
+[ 5m23s877ms - 5m24s157ms ] Hmm.
+[ 5m24s157ms - 5m24s427ms ] Hmm.
+[ 2m58s761ms - 3m1s481ms ] Look at it, it's like made of light!
+[ 3m1s481ms - 3m2s821ms ] No, that's a regular burger.
+[ 3m2s821ms - 3m4s11ms ] Just grosser than usual.
+[ 3m4s864ms - 3m8s414ms ] I can't. Your mom sees me as an average-looking underachieving slob.
+[ 3m9s955ms - 3m13s225ms ] Mr. Watterson, I've reviewed the evidence thoroughly and I'm pleased to say that we can
+[ 3m14s365ms - 3m14s635ms ] Hmm?
+[ 3m16s865ms - 3m17s325ms ] Ah!
+[ 3m18s835ms - 3m23s415ms ] can place a restraining order on Harold Wilson effective immediately.
+[ 3m23s415ms - 3m24s605ms ] All you need to do is
+[ 3m24s769ms - 3m26s649ms ] Bring me the tartar sauce. That fish just got cooked.
+[ 3m27s686ms - 3m27s926ms ] Uh.
+[ 3m27s926ms - 3m28s196ms ] Uh.
+[ 3m28s196ms - 3m28s486ms ] Uh.
+[ 3m28s486ms - 3m28s776ms ] Uh.
+[ 3m28s776ms - 3m29s176ms ] Ah.
+[ 3m29s176ms - 3m29s466ms ] Uh.
+[ 3m29s466ms - 3m29s756ms ] Uh.
+[ 3m29s756ms - 3m30s36ms ] Uh.
+[ 3m30s36ms - 3m30s316ms ] Uh.
+[ 3m30s316ms - 3m30s616ms ] Uh.
+[ 3m30s616ms - 3m30s906ms ] Uh.
+[ 3m30s906ms - 3m31s176ms ] Uh.
+[ 3m31s176ms - 3m31s466ms ] Uh.
+[ 3m31s466ms - 3m31s736ms ] Uh.
+[ 3m31s736ms - 3m32s26ms ] Uh.
+[ 3m32s26ms - 3m32s296ms ] Uh.
+[ 3m32s296ms - 3m32s586ms ] Uh.
+[ 3m32s586ms - 3m32s856ms ] Uh.
+[ 3m32s856ms - 3m33s146ms ] Uh.
+[ 3m33s146ms - 3m33s416ms ] Uh.
+[ 3m33s416ms - 3m33s706ms ] Uh.
+[ 3m33s706ms - 3m34s16ms ] Uh.
+[ 3m34s16ms - 3m34s306ms ] Uh.
+[ 3m34s306ms - 3m34s576ms ] Uh.
+[ 3m34s576ms - 3m34s856ms ] Uh.
+[ 3m34s856ms - 3m35s146ms ] Uh.
+[ 3m35s146ms - 3m35s416ms ] Uh.
+[ 3m35s416ms - 3m35s696ms ] Uh.
+[ 3m35s696ms - 3m35s956ms ] Uh.
+[ 3m35s956ms - 3m36s236ms ] Uh.
+[ 3m36s236ms - 3m36s506ms ] Uh.
+[ 3m36s506ms - 3m36s796ms ] Uh.
+[ 3m36s796ms - 3m37s66ms ] Uh.
+[ 3m37s66ms - 3m37s336ms ] Uh.
+[ 3m37s336ms - 3m37s616ms ] Uh.
+[ 3m37s616ms - 3m37s876ms ] Uh.
+[ 3m37s876ms - 3m38s156ms ] Uh.
+[ 3m38s156ms - 3m38s426ms ] Uh.
+[ 3m38s426ms - 3m38s706ms ] Uh.
+[ 3m38s706ms - 3m38s976ms ] Uh.
+[ 3m38s976ms - 3m39s256ms ] Uh.
+[ 3m39s256ms - 3m39s526ms ] Uh.
+[ 3m39s526ms - 3m39s806ms ] Uh.
+[ 3m39s806ms - 3m40s6ms ] Uh.
+[ 3m40s6ms - 3m40s286ms ] Uh.
+[ 3m40s286ms - 3m40s566ms ] Uh.
+[ 3m40s566ms - 3m40s836ms ] Uh.
+[ 3m40s836ms - 3m41s106ms ] Uh.
+[ 3m41s106ms - 3m41s386ms ] Uh.
+[ 3m41s386ms - 3m41s656ms ] Uh.
+[ 3m41s656ms - 3m41s936ms ] Uh.
+[ 3m41s936ms - 4m2s56ms ] Uh.
+[ 4m2s56ms - 4m2s326ms ] Hmm?
+[ 4m2s326ms - 4m2s606ms ] Weird.
+[ 4m5s6ms - 4m5s276ms ] Hmm?
+[ 4m5s276ms - 4m5s556ms ] Weird.
+[ 4m6s726ms - 4m8s736ms ] Oh well, maybe another day then.
+[ 4m19s168ms - 4m20s78ms ] Uh.
+[ 4m20s78ms - 4m20s358ms ] Uh.
+[ 4m20s358ms - 4m20s608ms ] Uh.
+[ 4m20s608ms - 4m20s888ms ] Uh.
+[ 4m20s888ms - 4m21s158ms ] Uh.
+[ 4m21s158ms - 4m21s448ms ] Uh.
+[ 4m21s448ms - 4m21s718ms ] Uh.
+[ 4m21s718ms - 4m22s8ms ] Uh.
+[ 4m22s8ms - 4m22s278ms ] Uh.
+[ 4m22s278ms - 4m22s548ms ] Uh.
+[ 4m22s548ms - 4m22s828ms ] Uh.
+[ 4m22s828ms - 4m23s108ms ] Uh.
+[ 4m23s108ms - 4m23s388ms ] Uh.
+[ 4m23s388ms - 4m23s658ms ] Uh.
+[ 4m23s658ms - 4m23s938ms ] Uh.
+[ 4m23s938ms - 4m24s208ms ] Uh.
+[ 4m24s208ms - 4m24s478ms ] Uh.
+[ 4m24s478ms - 4m24s758ms ] Uh.
+[ 4m24s758ms - 4m25s28ms ] Uh.
+[ 4m25s28ms - 4m25s308ms ] Uh.
+[ 4m25s308ms - 4m25s588ms ] Uh.
+[ 4m25s588ms - 4m25s858ms ] Uh.
+[ 4m25s858ms - 4m26s128ms ] Uh.
+[ 4m26s128ms - 4m26s408ms ] Uh.
+[ 4m26s408ms - 4m26s688ms ] Uh.
+[ 4m26s688ms - 4m26s958ms ] Uh.
+[ 4m26s958ms - 4m27s238ms ] Uh.
+[ 4m27s238ms - 4m27s508ms ] Uh.
+[ 4m27s508ms - 4m27s788ms ] Uh.
+[ 4m27s788ms - 4m28s58ms ] Uh.
+[ 4m28s58ms - 4m28s328ms ] Uh.
+[ 4m28s328ms - 4m28s608ms ] Uh.
+[ 4m28s608ms - 4m28s878ms ] Uh.
+[ 4m28s878ms - 4m29s148ms ] Uh.
+[ 4m29s148ms - 4m29s418ms ] Uh.
+[ 4m29s418ms - 4m29s708ms ] Uh.
+[ 4m29s708ms - 4m29s968ms ] Uh.
+[ 4m29s968ms - 4m30s248ms ] Uh.
+[ 4m30s248ms - 4m30s518ms ] Uh.
+[ 4m30s518ms - 4m30s808ms ] Uh.
+[ 4m30s808ms - 4m31s88ms ] Uh.
+[ 4m31s88ms - 4m31s358ms ] Uh.
+[ 4m31s358ms - 4m31s638ms ] Uh.
+[ 4m31s638ms - 4m31s908ms ] Uh.
+[ 4m31s908ms - 4m32s178ms ] Uh.
+[ 4m32s178ms - 4m32s468ms ] Uh.
+[ 4m32s468ms - 4m32s738ms ] Uh.
+[ 4m32s738ms - 4m33s8ms ] Uh.
+[ 4m33s8ms - 4m33s278ms ] Uh.
+[ 4m33s278ms - 4m33s548ms ] Uh.
+[ 4m33s548ms - 4m33s828ms ] Uh.
+[ 4m33s828ms - 4m34s98ms ] Uh.
+[ 4m34s98ms - 4m34s378ms ] Uh.
+[ 4m34s378ms - 4m34s648ms ] Uh.
+[ 4m34s648ms - 4m34s908ms ] Uh.
+[ 4m34s908ms - 4m35s178ms ] Uh.
+[ 4m35s178ms - 4m35s448ms ] Uh.
+[ 4m35s448ms - 4m35s728ms ] Uh.
+[ 4m35s728ms - 4m36s8ms ] Uh.
+[ 4m36s8ms - 4m36s278ms ] Uh.
+[ 4m36s278ms - 4m36s548ms ] Uh.
+[ 4m36s548ms - 4m36s838ms ] Uh.
+[ 4m36s838ms - 4m37s108ms ] Uh.
+[ 4m37s108ms - 4m37s378ms ] Uh.
+[ 4m37s378ms - 4m37s648ms ] Uh.
+[ 4m37s648ms - 4m37s928ms ] Uh.
+[ 4m37s928ms - 4m38s198ms ] Uh.
+[ 4m38s198ms - 4m38s468ms ] Uh.
+[ 4m38s468ms - 4m38s748ms ] Uh.
+[ 4m38s748ms - 4m39s98ms ] Uh.
+[ 4m39s98ms - 4m39s368ms ] Uh.
+[ 4m39s368ms - 4m39s648ms ] Uh.
+[ 4m39s648ms - 4m39s918ms ] Uh.
+[ 4m39s918ms - 4m40s188ms ] Uh.
+[ 4m40s188ms - 4m40s468ms ] Uh.
+[ 4m40s468ms - 4m40s738ms ] Uh.
+[ 4m40s738ms - 4m41s18ms ] Uh.
+[ 4m41s18ms - 4m41s288ms ] Uh.
+[ 4m41s288ms - 4m41s568ms ] Uh.
+[ 4m41s568ms - 4m41s848ms ] Uh.
+[ 4m41s848ms - 4m42s128ms ] Uh.
+[ 4m42s128ms - 4m42s388ms ] Uh.
+[ 4m42s388ms - 4m42s658ms ] Uh.
+[ 4m42s658ms - 4m42s938ms ] Uh.
+[ 4m24s286ms - 4m26s16ms ] One one, one, one, one!
+[ 4m26s16ms - 4m26s586ms ] Calm down!
+[ 4m26s586ms - 4m27s66ms ] We need some towels and hot water.
+[ 4m27s66ms - 4m27s516ms ] Of course.
+[ 4m27s516ms - 4m28s16ms ] I'll be right back.
+[ 4m28s526ms - 4m31s146ms ] You're right. Nothing better than a hot shower with my best friend.
+[ 4m32s636ms - 4m33s106ms ] Uh.
+[ 4m33s106ms - 4m33s386ms ] Uh.
+[ 4m33s576ms - 4m33s936ms ] Hmm.
+[ 4m33s936ms - 4m34s146ms ] Hmm.
+[ 4m34s146ms - 4m34s376ms ] Hmm.
+[ 4m34s376ms - 4m34s636ms ] Hmm.
+[ 4m34s636ms - 4m34s896ms ] Hmm.
+[ 4m34s896ms - 4m35s176ms ] Hmm.
+[ 4m35s176ms - 4m35s446ms ] Hmm.
+[ 4m35s446ms - 4m35s706ms ] Hmm.
+[ 4m35s706ms - 4m35s976ms ] Hmm.
+[ 4m35s976ms - 4m36s236ms ] Hmm.
+[ 4m36s236ms - 4m36s506ms ] Hmm.
+[ 4m36s506ms - 4m36s796ms ] Hmm.
+[ 4m36s796ms - 4m37s6ms ] Hmm.
+[ 4m37s6ms - 4m37s276ms ] Hmm.
+[ 4m37s276ms - 4m37s546ms ] Hmm.
+[ 4m37s546ms - 4m37s826ms ] Hmm.
+[ 4m37s826ms - 4m38s96ms ] Hmm.
+[ 4m38s96ms - 4m38s366ms ] Hmm.
+[ 4m38s366ms - 4m38s626ms ] Hmm.
+[ 4m38s626ms - 4m38s886ms ] Hmm.
+[ 4m38s886ms - 4m39s176ms ] Hmm.
+[ 4m39s176ms - 4m39s446ms ] Hmm.
+[ 4m39s446ms - 4m39s706ms ] Hmm.
+[ 4m39s706ms - 4m39s976ms ] Hmm.
+[ 4m39s976ms - 4m40s246ms ] Hmm.
+[ 4m40s246ms - 4m40s526ms ] Hmm.
+[ 4m40s526ms - 4m40s796ms ] Hmm.
+[ 4m40s796ms - 4m41s76ms ] Hmm.
+[ 4m41s76ms - 4m41s356ms ] Hmm.
+[ 4m41s356ms - 4m41s626ms ] Hmm.
+[ 4m41s626ms - 4m41s896ms ] Hmm.
+[ 4m41s896ms - 4m42s166ms ] Hmm.
+[ 4m42s166ms - 4m42s436ms ] Hmm.
+[ 4m42s436ms - 4m42s716ms ] Hmm.
+[ 4m42s716ms - 4m42s986ms ] Hmm.
+[ 4m42s986ms - 4m43s266ms ] Hmm.
+[ 4m43s266ms - 4m43s536ms ] Hmm.
+[ 4m43s536ms - 4m43s816ms ] Hmm.
+[ 4m43s816ms - 4m44s86ms ] Hmm.
+[ 4m44s86ms - 4m44s356ms ] Hmm.
+[ 4m44s356ms - 4m44s626ms ] Hmm.
+[ 4m44s626ms - 4m44s906ms ] Hmm.
+[ 4m44s906ms - 4m45s176ms ] Hmm.
+[ 4m45s176ms - 4m45s456ms ] Hmm.
+[ 4m45s456ms - 4m45s736ms ] Hmm.
+[ 4m45s736ms - 4m46s6ms ] Hmm.
+[ 4m46s6ms - 4m46s276ms ] Hmm.
+[ 4m46s276ms - 4m46s546ms ] Hmm.
+[ 4m46s546ms - 4m46s826ms ] Hmm.
+[ 4m46s826ms - 4m47s96ms ] Hmm.
+[ 4m47s96ms - 4m47s366ms ] Hmm.
+[ 4m47s366ms - 4m47s636ms ] Hmm.
+[ 4m47s636ms - 4m47s926ms ] Hmm.
+[ 4m47s926ms - 4m48s206ms ] Hmm.
+[ 4m48s206ms - 4m48s466ms ] Hmm.
+[ 4m48s466ms - 4m48s746ms ] Hmm.
+[ 4m48s746ms - 4m49s16ms ] Hmm.
+[ 4m49s16ms - 4m49s286ms ] Hmm.
+[ 4m49s286ms - 4m49s566ms ] Hmm.
+[ 4m49s566ms - 4m49s836ms ] Hmm.
+[ 4m49s836ms - 4m50s106ms ] Hmm.
+[ 4m50s106ms - 4m50s386ms ] Hmm.
+[ 4m50s386ms - 4m50s656ms ] Hmm.
+[ 4m50s656ms - 4m50s936ms ] Hmm.
+[ 4m50s936ms - 4m51s206ms ] Hmm.
+[ 4m51s206ms - 4m51s476ms ] Hmm.
+[ 4m51s476ms - 4m51s756ms ] Hmm.
+[ 4m51s756ms - 4m52s66ms ] Hmm.
+[ 4m52s66ms - 4m52s336ms ] Hmm.
+[ 4m52s336ms - 4m52s606ms ] Hmm.
+[ 4m52s606ms - 4m52s886ms ] Hmm.
+[ 4m52s886ms - 4m53s156ms ] Hmm.
+[ 4m53s156ms - 4m53s426ms ] Hmm.
+[ 4m53s426ms - 4m53s706ms ] Hmm.
+[ 4m53s706ms - 4m53s976ms ] Hmm.
+[ 4m53s976ms - 4m54s256ms ] Hmm.
+[ 4m54s256ms - 4m54s526ms ] Hmm.
+[ 4m54s526ms - 4m54s806ms ] Hmm.
+[ 4m54s806ms - 4m55s76ms ] Hmm.
+[ 4m55s76ms - 4m55s356ms ] Hmm.
+[ 4m55s356ms - 4m55s626ms ] Hmm.
+[ 4m55s626ms - 4m55s896ms ] Hmm.
+[ 4m55s896ms - 4m56s176ms ] Hmm.
+[ 4m56s176ms - 4m56s446ms ] Hmm.
+[ 4m56s446ms - 4m56s726ms ] Hmm.
+[ 4m56s726ms - 4m56s996ms ] Hmm.
+[ 4m56s996ms - 4m57s266ms ] Hmm.
+[ 4m57s266ms - 4m57s546ms ] Hmm.
+[ 4m57s546ms - 4m57s816ms ] Hmm.
+[ 4m57s816ms - 4m58s96ms ] Hmm.
+[ 4m58s96ms - 4m58s366ms ] Hmm.
+[ 4m58s366ms - 4m58s636ms ] Hmm.
+[ 4m58s636ms - 4m58s906ms ] Hmm.
+[ 4m58s906ms - 4m59s176ms ] Hmm.
+[ 4m59s176ms - 4m59s456ms ] Hmm.
+[ 4m59s456ms - 4m59s726ms ] Hmm.
+[ 4m59s726ms - 5m0s6ms ] Hmm.
+[ 5m0s6ms - 5m0s276ms ] Hmm.
+[ 5m0s276ms - 5m0s546ms ] Hmm.
+[ 5m0s546ms - 5m0s826ms ] Hmm.
+[ 5m0s826ms - 5m1s96ms ] Hmm.
+[ 5m1s96ms - 5m1s366ms ] Hmm.
+[ 5m1s366ms - 5m1s636ms ] Hmm.
+[ 5m1s636ms - 5m1s906ms ] Hmm.
+[ 5m1s906ms - 5m2s176ms ] Hmm.
+[ 5m2s176ms - 5m2s456ms ] Hmm.
+[ 5m2s456ms - 5m2s726ms ] Hmm.
+[ 5m2s726ms - 5m2s996ms ] Hmm.
+[ 5m3s166ms - 5m3s436ms ] Hmm.
+[ 5m3s436ms - 5m3s706ms ] Hmm.
+[ 5m3s706ms - 5m3s986ms ] Hmm.
+[ 5m3s986ms - 5m4s256ms ] Hmm.
+[ 5m4s256ms - 5m4s546ms ] Hmm.
+[ 5m4s546ms - 5m4s816ms ] Hmm.
+[ 5m4s816ms - 5m5s86ms ] Hmm.
+[ 5m5s86ms - 5m5s356ms ] Hmm.
+[ 5m5s356ms - 5m5s626ms ] Hmm.
+[ 5m5s626ms - 5m5s896ms ] Hmm.
+[ 5m5s896ms - 5m6s176ms ] Hmm.
+[ 5m6s176ms - 5m6s446ms ] Hmm.
+[ 5m6s446ms - 5m6s726ms ] Hmm.
+[ 5m6s726ms - 5m6s986ms ] Hmm.
+[ 5m6s986ms - 5m7s256ms ] Hmm.
+[ 5m7s256ms - 5m7s536ms ] Hmm.
+[ 5m7s536ms - 5m7s806ms ] Hmm.
+[ 5m7s806ms - 5m8s96ms ] Hmm.
+[ 5m8s96ms - 5m8s366ms ] Hmm.
+[ 5m8s366ms - 5m8s636ms ] Hmm.
+[ 5m8s636ms - 5m8s906ms ] Hmm.
+[ 5m8s906ms - 5m9s176ms ] Hmm.
+[ 5m9s176ms - 5m9s456ms ] Hmm.
+[ 5m9s456ms - 5m9s726ms ] Hmm.
+[ 4m33s96ms - 4m34s146ms ] Pasami winked at me this morning.
+[ 4m34s146ms - 4m36s716ms ] She went like this.
+[ 4m37s672ms - 4m49s62ms ] Now, I want you all to gather around my desk and witness the true beauty of nature as the butterfly emerges from its cris! And I'm off the clock and don't have to pretend to care about your education.
+[ 4m50s694ms - 4m53s524ms ] Oh.
+[ 4m54s74ms - 4m54s484ms ] Hmm.
+[ 4m54s484ms - 4m54s814ms ] Hmm.
+[ 4m54s814ms - 4m55s124ms ] Hmm.
+[ 4m55s124ms - 4m55s444ms ] Hmm.
+[ 4m55s444ms - 4m55s734ms ] Hmm.
+[ 4m55s734ms - 4m56s14ms ] Hmm.
+[ 4m56s14ms - 4m56s274ms ] Oh.
+[ 4m56s274ms - 4m56s654ms ] Uh.
+[ 4m56s654ms - 4m57s84ms ] Help!
+[ 4m57s84ms - 4m57s394ms ] Help!
+[ 4m57s394ms - 4m57s594ms ] Oh.
+[ 4m57s594ms - 4m58s34ms ] Oh, man.
+[ 4m58s34ms - 4m58s354ms ] Uh.
+[ 4m58s354ms - 4m58s644ms ] Help!
+[ 4m58s644ms - 4m58s904ms ] Help!
+[ 4m58s904ms - 4m59s144ms ] Uh.
+[ 4m59s144ms - 4m59s444ms ] Oh, man.
+[ 4m59s444ms - 4m59s724ms ] Uh.
+[ 4m59s724ms - 5m0s114ms ] Uh.
+[ 5m0s114ms - 5m0s404ms ] Uh.
+[ 5m0s404ms - 5m0s704ms ] Uh.
+[ 5m0s704ms - 5m1s4ms ] Uh.
+[ 5m1s4ms - 5m1s274ms ] Uh.
+[ 5m1s274ms - 5m1s544ms ] Uh.
+[ 5m1s544ms - 5m1s814ms ] Uh.
+[ 5m1s814ms - 5m2s84ms ] Uh.
+[ 5m2s84ms - 5m2s374ms ] Uh.
+[ 5m2s374ms - 5m2s634ms ] Uh.
+[ 5m2s634ms - 5m2s924ms ] Uh.
+[ 5m2s924ms - 5m3s184ms ] Uh.
+[ 5m3s184ms - 5m3s454ms ] Uh.
+[ 5m3s454ms - 5m3s734ms ] Uh.
+[ 5m3s734ms - 5m4s14ms ] Uh.
+[ 5m4s14ms - 5m4s274ms ] Uh.
+[ 5m4s274ms - 5m4s544ms ] Uh.
+[ 5m4s544ms - 5m4s824ms ] Uh.
+[ 5m4s824ms - 5m5s94ms ] Uh.
+[ 5m5s94ms - 5m5s384ms ] Uh.
+[ 5m5s384ms - 5m5s644ms ] Uh.
+[ 5m5s644ms - 5m5s914ms ] Uh.
+[ 5m5s914ms - 5m6s184ms ] Uh.
+[ 5m6s184ms - 5m6s464ms ] Uh.
+[ 5m6s464ms - 5m6s724ms ] Uh.
+[ 5m6s724ms - 5m6s994ms ] Uh.
+[ 5m6s994ms - 5m7s264ms ] Uh.
+[ 5m7s264ms - 5m7s544ms ] Uh.
+[ 5m7s544ms - 5m7s814ms ] Uh.
+[ 5m7s814ms - 5m8s94ms ] Uh.
+[ 5m8s94ms - 5m8s374ms ] Uh.
+[ 5m8s374ms - 5m8s634ms ] Uh.
+[ 5m8s634ms - 5m8s904ms ] Uh.
+[ 5m8s904ms - 5m9s174ms ] Uh.
+[ 5m9s174ms - 5m9s454ms ] Uh.
+[ 5m9s454ms - 5m9s724ms ] Uh.
+[ 5m9s724ms - 5m10s4ms ] Uh.
+[ 5m10s4ms - 5m10s274ms ] Uh.
+[ 5m10s274ms - 5m10s544ms ] Uh.
+[ 5m10s544ms - 5m10s824ms ] Uh.
+[ 5m10s824ms - 5m11s94ms ] Uh.
+[ 5m11s94ms - 5m11s374ms ] Uh.
+[ 5m11s374ms - 5m11s634ms ] Uh.
+[ 5m11s634ms - 5m11s904ms ] Uh.
+[ 5m11s904ms - 5m12s174ms ] Uh.
+[ 5m12s174ms - 5m12s454ms ] Uh.
+[ 5m12s454ms - 5m12s724ms ] Uh.
+[ 5m12s724ms - 5m23s864ms ] Uh.
+
+
+SEGMENT 2 (Minutes 5-10)
+========================================
+Here's a summary of the video:
+
+The video is a compilation of short, comedic, and often surreal clips from "The Amazing World of Gumball," featuring various characters from the show. Key elements include:
+
+*   **Emotional Outbursts**: Characters frequently display exaggerated emotions, from Gumball's furious screaming fits (0:18, 0:40, 4:40) to Darwin's horrified reactions (0:46, 2:56) and Richard's oblivious contentment (0:38).
+*   **Musical Mayhem**: Several scenes involve characters playing musical instruments poorly or in strange ways, often leading to chaos (0:02, 2:25, 3:00).
+*   **Body Transformations/Damage**: Characters' bodies are frequently distorted, broken, or transformed for comedic effect, such as Gumball's face splitting (0:00), Richard's arm being eaten (0:43), or a character exploding (1:30).
+*   **Surreal Situations**: The clips showcase the show's signature surreal humor, including characters made of mud, sentient objects, and illogical scenarios like a bus stop conversation with a talking pomegranate (2:16) or a character's "inner voice" having an echo (3:54).
+*   **Parodies/References**: There are visual references to popular culture, such as Gumball and Darwin dressed as Power Rangers (3:29) and Gumball acting like Robin Hood (4:24).
+*   **Dialogue-driven Gags**: Many scenes rely on humorous dialogue, often delivered with deadpan or over-the-top reactions, like Darwin's observation about diet (0:32) or the discussion about imagining people without clothes (2:40).
+
+
+SEGMENT 3 (Minutes 10-15)
+========================================
+Here's a detailed log of face changes in the video, with descriptions of the expressions:
+
+- **00:00 - Neutral/Contemplative:** The blue cat-like character (Gumball) has a slightly furrowed brow and a thoughtful, somewhat pouty expression.
+- **00:00 - Surprised:** The furry grey character (Mr. Small) has wide eyes and a surprised, slightly worried look.
+- **00:03 - Exasperated/Frustrated:** Gumball's expression shifts to a more exaggerated, strained look, as if he's trying very hard to open something.
+- **00:05 - Yawning/Straining:** Gumball opens his mouth wide in a contorted, exaggerated yawn or scream of effort.
+- **00:08 - Scared/Struggling:** Gumball's eyes are wide, and his mouth is open in a scream as he's being pulled.
+- **00:09 - Determined/Scheming:** Gumball has a wide, confident grin, looking mischievous.
+- **00:10 - Confused/Concerned:** The orange fish-like character (Darwin) holds a book and has wide, uncertain eyes.
+- **00:12 - Straining/Effort:** Gumball closes his eyes and clenches his teeth, pushing hard.
+- **00:15 - Surprised/Wincing:** Darwin is covered in yellow goo, his eyes are wide, and his mouth is slightly open, looking surprised and a bit grossed out.
+- **00:17 - Angry/Disgusted:** Darwin's eyebrows are furrowed, and his mouth is open in an angry or disgusted expression.
+- **00:18 - Worried/Concerned:** Darwin's expression softens to a worried, slightly scared look.
+- **00:21 - Angry/Shouting:** Gumball is red-faced, shouting with wide, angry eyes and bared teeth.
+- **00:23 - Confident/Smirking:** Gumball smirks, looking pleased with himself.
+- **00:24 - Determined/Focused:** Gumball's eyes are narrowed, and his mouth is in a determined line as he operates a lever.
+- **00:26 - Annoyed/Frustrated:** The yellow sun-like character (Masami) has a furrowed brow and an annoyed expression. The grey fluffy character (Mr. Small) looks angry.
+- **00:27 - Intrigued/Excited:** A pink rabbit-like character (Anais) has wide, curious eyes and an open-mouthed, excited smile.
+- **00:28 - Concerned:** Darwin looks on with a worried expression.
+- **00:32 - Excited/Enthusiastic:** Anais is wide-eyed and smiling excitedly, looking at a box.
+- **00:33 - Worried/Concerned:** Darwin's mouth is a small "o" shape, and his eyes are wide with concern.
+- **00:34 - Frustrated/Pensive:** Anais's smile tightens into a grimace, eyes wide and a slightly frustrated look.
+- **00:36 - Terrified/Screaming:** A black and white, distressed character (The Box) is shown screaming with wide eyes and mouth.
+- **00:37 - Sad/Worried:** The pixelated character (The Box) has sad, downturned pixelated eyes and a small, worried pixelated mouth.
+- **00:38 - Angry/Furious:** The Earth has angry, narrowed eyes and a scowling mouth, with red marks on its face.
+- **00:39 - Worried:** The Moon next to Earth has a worried, sad expression.
+- **00:41 - Shocked/Screaming:** The Earth's mouth opens in a wide, horrified scream.
+- **00:44 - Sad/Worried:** The pixelated character's expression returns to sad and worried.
+- **00:46 - Annoyed/Frustrated:** The pixelated character's expression becomes annoyed, with furrowed brows.
+- **00:48 - Distressed/Panicked:** The pixelated character has wide, panicked eyes and an open mouth, surrounded by glitching effects.
+- **00:54 - Delighted/Childish:** The pink character (Richard) has wide, happy eyes and a big, toothy grin as he looks at the squirt gun.
+- **00:56 - Joyful/Playful:** Richard is laughing, eyes closed in happiness, as he squirts the gun.
+- **00:58 - Concerned:** Mr. Small and the corn character look worried. The mushroom character looks sad.
+- **01:00 - Determined/Smug:** Gumball as a criminal has a smug, confident grin with narrowed eyes. Darwin as a policeman has sunglasses and a determined expression.
+- **01:02 - Angry/Shouting:** Darwin shouts with an open, angry mouth.
+- **01:03 - Exaggerated Anger:** Gumball's face twists into a more cartoonishly angry expression.
+- **01:05 - Shocked/Surprised:** Gumball is wide-eyed and surprised.
+- **01:06 - Annoyed/Frustrated:** Darwin, as a policeman, has a frustrated expression.
+- **01:08 - Panicked/Distressed:** Gumball's eyes are wide, and his mouth is open in a scream of panic. Darwin is also distressed.
+- **01:09 - Concerned:** Mr. Small and the corn character look worried. The mushroom character is shocked.
+- **01:10 - Confused/Surprised:** Gumball and Darwin are wide-eyed and looking surprised.
+- **01:11 - Angry/Shouting:** Darwin's mouth opens wide in an angry shout.
+- **01:12 - Scowling/Determined:** Gumball has a scowling, determined expression.
+- **01:14 - Angry/Exasperated:** Darwin is very angry, eyes wide and mouth open.
+- **01:15 - Concerned/Worried:** Mr. Small is worried. The corn character is angry. The mushroom character is distressed.
+- **01:17 - Worried:** The mushroom character has a worried expression. The corn character looks resigned. Mr. Small looks thoughtful.
+- **01:21 - Declaring/Confident:** Mr. Small looks confident and determined.
+- **01:23 - Happy/Content:** Darwin's reflection with makeup on is smiling happily.
+- **01:24 - Sultry/Confident:** Darwin's reflection squints one eye and puckers its lips, looking confident.
+- **01:26 - Concerned:** Darwin looks concerned, Gumball looks sad.
+- **01:28 - Wide-eyed/Confused:** Darwin and Gumball have wide, confused eyes.
+- **01:30 - Happy/Relaxed:** Darwin and Gumball close their eyes and smile, looking relaxed.
+- **01:32 - Terrified/Screaming:** Gumball's face contorts into a terrified scream, with makeup smeared on him.
+- **01:35 - Shocked/Terrified:** Darwin, now with makeup, has wide, shocked eyes and a terrified grimace.
+- **01:36 - Annoyed/Worried:** Anais looks annoyed and slightly worried.
+- **01:38 - Wicked/Grinning:** Richard has a distorted, wrinkled, and wicked grin on his face.
+- **01:39 - Stern/Serious:** Richard's face is serious and he's looking stern.
+- **01:43 - Thoughtful/Smiling:** Richard smiles, looking thoughtful.
+- **01:47 - Distressed/Contorted:** Gumball's face is smeared with makeup, bleeding from the nose and mouth, and his eye is black. He looks distressed.
+- **01:50 - Happy/Excited:** Gumball points at a shampoo pyramid with a wide, happy grin. Darwin is also looking.
+- **01:54 - Sad/Confused:** Gumball looks sad and confused. Darwin also looks sad.
+- **01:58 - Pointing/Confident:** Gumball points with a confident, open-mouthed expression. Darwin looks annoyed.
+- **02:00 - Excited/Enthusiastic:** Gumball is wide-eyed and excited. Darwin looks skeptical.
+- **02:04 - Happy/Confident:** Gumball is grinning and looks confident. Darwin looks amused.
+- **02:08 - Annoyed/Complaining:** Gumball complains with an annoyed expression. Darwin looks slightly embarrassed.
+- **02:10 - Smug/Satisfied:** Gumball has a smug, satisfied expression. Darwin looks annoyed.
+- **02:12 - Scowling/Angry:** Darwin is scowling, looking angry.
+- **02:14 - Arrogant/Boastful:** Darwin is grinning and sticking his chest out. Gumball looks irritated.
+- **02:16 - Exaggerated Rage/Straining:** Gumball's face is contorted in exaggerated rage, eyes bulging and veins showing.
+- **02:18 - Impatient/Annoyed:** Darwin is crossing his arms, looking impatient and annoyed.
+- **02:20 - Aggressive/Shouting:** Gumball is shouting aggressively.
+- **02:22 - Angry/Challenging:** Darwin looks angry and challenging.
+- **02:25 - Smiling/Content:** Gumball and Darwin are smiling happily.
+- **02:27 - Smiling/Confident:** Gumball has a wide, confident smile. Darwin looks content.
+- **02:29 - Smiling/Happy:** Gumball smiles happily. Darwin looks confused.
+- **02:30 - Surprised/Happy:** Gumball is surprised but happy.
+- **02:33 - Concerned/Scared:** Darwin looks concerned. Gumball looks scared.
+- **02:34 - Amused/Slightly Grossed Out:** Gumball has an amused expression, slightly grossed out. Darwin looks like he just smelled something bad.
+- **02:37 - Slightly Repulsed:** Gumball looks slightly repulsed.
+- **02:40 - Shocked/Scared:** Gumball and Darwin are both shocked and scared.
+- **02:42 - Grinning/Confident:** The bear character has a wide, confident grin.
+- **02:45 - Happy/Expressive:** The bear character is smiling widely.
+- **02:47 - Contemplative/Wise:** The bear character has closed eyes and a serene expression.
+- **02:50 - Wise/Knowing:** The bear character is smiling knowingly.
+- **02:52 - Wise/Smiling:** The bear character smiles, looking wise.
+- **02:54 - Contemplative/Happy:** The bear character's eyes are closed, and it's smiling contentedly.
+- **02:56 - Knowing/Confident:** The bear character is smiling confidently.
+- **02:59 - Serene/Peaceful:** The bear character has closed eyes and a peaceful expression.
+- **03:01 - Smug/Winking:** The bear character winks smugly.
+- **03:03 - Closed Eyes/Smiling:** The bear character closes its eyes and smiles contentedly.
+- **03:05 - Intense/Focused:** Gumball and Darwin are both intensely focused, holding onto a calculator. Mr. Small is surprised.
+- **03:08 - Thoughtful/Observing:** Mr. Small looks thoughtful. Gumball is looking determined. Darwin is also determined.
+- **03:10 - Intimidating/Angry:** Mr. Small looks angry, with furrowed eyebrows.
+- **03:12 - Angry/Determined:** Darwin and Gumball look angry and determined.
+- **03:14 - Exasperated/Frustrated:** Gumball is shouting in frustration.
+- **03:16 - Serious/Determined:** Darwin looks serious and determined. Gumball looks exasperated.
+- **03:18 - Serene/Meditative:** The cloud character (Clare) is meditating with closed eyes and a relaxed expression.
+- **03:20 - Surprised/Enlightened:** Clare's eyes open wide, showing bright yellow and red, in a surprised and enlightened expression.
+- **03:22 - Worried/Concerned:** Clare's expression changes to worried and concerned.
+- **03:24 - Scared/Struggling:** Clare looks scared and is struggling to resist.
+- **03:26 - Determined/Focused:** Gumball and Darwin are both determined and focused.
+- **03:30 - Annoyed/Frustrated:** Gumball looks annoyed. Darwin looks confused. Clare looks disappointed.
+- **03:32 - Angry/Determined:** Gumball looks angry. Darwin looks determined. Clare looks angry.
+- **03:34 - Surprised/Scared:** Clare is wide-eyed and scared.
+- **03:36 - Annoyed/Skeptical:** Gumball looks annoyed and skeptical. Darwin looks thoughtful.
+- **03:38 - Angry/Shouting:** The stick figure nurse is shouting angrily. Darwin looks confused. Gumball looks surprised.
+- **03:40 - Thoughtful/Confused:** Darwin looks thoughtful. Gumball looks confused.
+- **03:44 - Determined/Angry:** The cloud character (Clare) with a rainbow shirt has red, angry eyes and a determined expression.
+- **03:46 - Relieved/Content:** Clare relaxes, eyes closed, and looks content.
+- **03:48 - Wise/All-Knowing:** Clare, now in a guru-like outfit, has yellow eyes and a serene, wise expression.
+- **03:50 - Serene/Calm:** Clare has closed eyes and a calm expression.
+- **03:52 - Enlightened/Content:** Clare has open, yellow eyes and a calm, enlightened expression.
+- **03:54 - Pensive/Concerned:** Gumball looks thoughtful and concerned.
+- **03:56 - Sad/Distressed:** The red character (Richard) in a trench coat has a sad, distressed expression.
+- **03:57 - Distressed/Pensive:** The trench-coated character looks pensive and distressed.
+- **04:02 - Determined/Intense:** The trench-coated character has narrowed, determined eyes.
+- **04:05 - Confused/Concerned:** The flower character has a confused and concerned expression.
+- **04:08 - Exhausted/Defeated:** The red character in a trench coat is collapsed and looks exhausted.
+- **04:09 - Calm/Relaxed:** Gumball is calm with closed eyes. Darwin looks concerned.
+- **04:11 - Pensive/Calm:** The frog character is pensive and calm.
+- **04:13 - Exhausted/Sleeping:** Gumball is completely exhausted, eyes closed. Darwin is also exhausted.
+- **04:17 - Concerned:** The banana character looks concerned.
+- **04:22 - Worried/Concerned:** The paper bag character looks worried.
+- **04:26 - Sad/Pensive:** The banana character looks sad and pensive.
+- **04:30 - Distressed/Wincing:** The banana character winces in pain.
+- **04:31 - Sad/Worried:** The banana character looks sad and worried. Gumball looks surprised. Darwin looks concerned.
+- **04:34 - Angry/Frustrated:** The banana character looks angry and frustrated.
+- **04:36 - Frustrated/Annoyed:** The banana character has a frustrated and annoyed expression.
+- **04:40 - Calm/Content:** Gumball looks calm and content.
+- **04:42 - Angry/Frustrated:** The banana character looks angry and frustrated.
+- **04:47 - Confused/Concerned:** The banana character is holding a chicken and looks confused and concerned.
+- **04:50 - Sad/Disappointed:** The banana character is sad and disappointed. Gumball is concerned. Darwin looks upset.
+- **04:52 - Confused/Surprised:** Gumball looks confused and surprised.
+- **04:56 - Worried/Frustrated:** Gumball looks worried and frustrated.
+
+Final count of distinct facial changes: 62.
+
+
+SEGMENT 4 (Minutes 15-20)
+========================================
+[ 0m0s981ms - 0m3s241ms ] Gumball, why is the bathtub full of soda?
+[ 0m3s411ms - 0m6s321ms ] He must have been trying to make some kind of amazing homemade jacuzzi.
+[ 0m6s491ms - 0m10s711ms ] I think it's important to encourage the creativity of a child because
+[ 0m10s811ms - 0m11s641ms ] It was you, wasn't it?
+[ 0m11s641ms - 0m12s211ms ] Yes.
+[ 0m12s211ms - 0m13s121ms ] Oh.
+[ 0m14s511ms - 0m16s31ms ] Gumball, how did you manage to bring both sand and snow into the house?
+[ 0m16s382ms - 0m17s12ms ] frame!
+[ 0m17s12ms - 0m22s732ms ] By the power of the magic finger, eat! By the power of the magic finger!
+[ 0m23s217ms - 0m24s147ms ] Quick, sleep while you can.
+[ 0m26s147ms - 0m28s627ms ] Second wind!
+[ 0m29s159ms - 0m29s339ms ] Uh
+[ 0m30s679ms - 0m31s179ms ] He did it.
+[ 0m31s639ms - 0m33s769ms ] Um, see you later.
+[ 0m34s149ms - 0m34s809ms ] Huh? What?
+[ 0m35s669ms - 0m40s89ms ] What's going on? What's going on is that we're about to open your locker and find a crowbar.
+[ 0m41s139ms - 0m43s329ms ] Uh, okay.
+[ 0m43s729ms - 0m45s389ms ] Dude, I wouldn't do that if I were you.
+[ 0m45s529ms - 0m46s849ms ] Why? What have you made me do now?
+[ 0m50s108ms - 0m52s158ms ] Hey Tobias, do you mind moving so we can-
+[ 0m52s798ms - 0m53s518ms ] lady.
+[ 0m53s668ms - 0m54s58ms ] Uh, what is that?
+[ 0m54s348ms - 0m55s998ms ] The leather man says he's sweaty.
+[ 0m56s658ms - 1m1s818ms ] Well, on second thoughts, what kind of gentleman could rob such a fine lady of her seat? Please, take it back.
+[ 1m2s418ms - 1m3s248ms ] Oh, flush, flush, flush, flush.
+[ 1m3s248ms - 1m7s248ms ] I've got such a craving for some anchovies and peanut butter.
+[ 1m7s518ms - 1m8s488ms ] Oh, uh,
+[ 1m9s348ms - 1m10s988ms ] Hurry up, please. I'm sitting for two.
+[ 1m14s358ms - 1m15s868ms ] They grow up so fast.
+[ 1m16s968ms - 1m17s928ms ] Why are you so angry, buddy?
+[ 1m18s248ms - 1m22s768ms ] Is it because we didn't defend you when Tobias said your mom is so overripe she's got fruit flies?
+[ 1m23s438ms - 1m32s38ms ] Is it because we left you at that gas station on the way to Daisyland on your birthday because we were almost there and we decided to just pick you up on the way home?
+[ 1m32s468ms - 1m38s958ms ] Is it because we forgot about you on that camping trip and you had to sleep under a tent of your own skin and eat a bit of yourself to survive?
+[ 1m39s538ms - 1m40s108ms ] Hey, hey.
+[ 1m46s295ms - 1m48s795ms ] And like I said to Richard on your wedding day,
+[ 1m48s795ms - 1m50s565ms ] you sure about that, honey?
+[ 1m52s385ms - 1m54s485ms ] Ah, my best customer.
+[ 1m55s397ms - 1m55s797ms ] Darwin!
+[ 1m56s727ms - 1m58s977ms ] Where do you think you're going? Uh, buy some stuff.
+[ 1m59s337ms - 2m0s427ms ] At the shop?
+[ 2m0s647ms - 2m1s717ms ] What are you doing?
+[ 2m2s147ms - 2m3s207ms ] He's your son.
+[ 2m4s967ms - 2m5s567ms ] Aha!
+[ 2m5s877ms - 2m6s447ms ] Now give me the dough.
+[ 2m6s527ms - 2m6s767ms ] No!
+[ 2m7s107ms - 2m10s57ms ] Give me! No! Give me! No! Give me! No!
+[ 2m10s397ms - 2m13s27ms ] All right, you've asked for this.
+[ 2m14s761ms - 2m15s951ms ] You want a biscuit?
+[ 2m16s251ms - 2m17s121ms ] Huh? You want a biscuit?
+[ 2m17s121ms - 2m18s241ms ] This? You want a biscuit? This?
+[ 2m18s571ms - 2m19s561ms ] You can't ever take a biscuit, man!
+[ 2m19s731ms - 2m21s341ms ] Ooh, I was teasing you.
+[ 2m21s631ms - 2m21s901ms ] You want a biscuit?
+[ 2m22s654ms - 2m25s254ms ] Oh, we did! They came out of nowhere and tried to start a fight with us.
+[ 2m25s524ms - 2m30s344ms ] Well, I just wanted to say that if that situation ever happens again, you will lose!
+[ 2m31s258ms - 2m32s38ms ] We're out.
+[ 2m32s298ms - 2m32s638ms ] I
+[ 2m33s866ms - 2m34s146ms ] Oh!
+[ 2m34s146ms - 2m40s486ms ] By the power of the magic finger! You put your dirty hands on my child. You get your greasy fingers off of my child!
+[ 2m40s626ms - 2m41s546ms ] Okay, I'm out!
+[ 2m41s546ms - 2m42s916ms ] If it was those kids next door, I'm sure as I
+[ 2m43s226ms - 2m43s566ms ] What?
+[ 2m44s385ms - 2m47s505ms ] And there's still gunpowder in it. Oh, and my little atomic energy kit.
+[ 2m47s735ms - 2m53s515ms ] What kind of child wouldn't want to play with a little uranium and small?
+[ 2m54s55ms - 2m54s345ms ] Oh, boy.
+[ 2m57s715ms - 2m59s205ms ] Please don't tell me I needed to specify children's toys.
+[ 2m59s335ms - 3m4s275ms ] This time I got arrested for violating 14 international peace agreements.
+[ 3m32s874ms - 3m33s444ms ] Go on.
+[ 3m33s444ms - 3m34s34ms ] Tell me your plan then.
+[ 3m34s244ms - 3m35s34ms ] It's simple.
+[ 3m35s34ms - 3m38s994ms ] We get picked up by that magnet and get dropped into that crusher.
+[ 3m40s474ms - 3m40s864ms ] Hmm.
+[ 3m43s724ms - 3m45s184ms ] You stole his mom.
+[ 3m48s172ms - 3m48s862ms ] Ah!
+[ 3m50s672ms - 3m51s232ms ] Ah!
+[ 3m51s342ms - 3m51s622ms ] Ah!
+[ 3m51s712ms - 3m53s692ms ] Woo hoo hoo!
+[ 3m54s490ms - 3m59s810ms ] It was found by your great, great, great, great, great-grandfather Bucktooth Waterson, who lost it to an evil man called One Legged Finkle Hypermine in a jig contest.
+[ 4m1s710ms - 4m4s300ms ] Wow.
+[ 4m8s30ms - 4m8s990ms ] I think it's time to have a little talk.
+[ 4m9s110ms - 4m15s80ms ] If Earth's temperature were to rise by just one degree, average sea levels would rise, leading to a massive tragedy.
+[ 4m15s80ms - 4m17s120ms ] This does look like music to you?
+[ 4m20s221ms - 4m20s561ms ] Whoa.
+[ 4m22s341ms - 4m23s801ms ] Hey!
+[ 4m24s421ms - 4m25s741ms ] for you. Turn your phone to the TV.
+[ 4m25s741ms - 4m26s261ms ] Okay.
+[ 4m26s551ms - 4m27s281ms ] Anything else?
+[ 4m27s511ms - 4m28s441ms ] Yeah, stop talking.
+[ 4m28s441ms - 4m28s881ms ] I'm trying to listen.
+[ 4m28s881ms - 4m29s131ms ] Oh.
+[ 4m29s642ms - 4m32s352ms ] My gosh, Billy, you're right. Books can be as dangerous as video games.
+[ 4m32s832ms - 4m36s272ms ] There's only one reasonable thing to do.
+[ 4m36s542ms - 4m40s692ms ] Become better parents and look after our children in a sensible way.
+[ 4m41s472ms - 4m41s792ms ] No.
+[ 4m42s82ms - 4m42s512ms ] Ah!
+[ 4m43s554ms - 4m43s874ms ] exciting adventures.
+[ 4m43s874ms - 4m51s994ms ] I'm more handsome, richer, and more colorful than you guys, and yet, it's like I'm the supporting character of my own life.
+[ 4m52s894ms - 4m56s164ms ] Come on. I'm not hugging you. We're both in towels.
+[ 4m56s748ms - 4m58s108ms ] thousand dollars.
+[ 4m58s399ms - 5m0s629ms ] If you think germs are so funny, then maybe you should look at this!
+[ 5m0s969ms - 5m1s599ms ] Oh my gosh!
+[ 5m1s599ms - 5m1s999ms ] What is that?
+[ 5m2s39ms - 5m2s419ms ] That's my-
+[ 5m2s759ms - 5m3s169ms ] Whoa!
+[ 5m3s209ms - 5m3s569ms ] Whoa!
+[ 5m3s569ms - 5m4s39ms ] That's my-
+
+
+SEGMENT 5 (Minutes 20-25)
+========================================
+Here's a detailed log of all events in the video, with their corresponding timestamps and descriptions.
+
+- **00:00 - 00:02**: Gumball is seen doing exercise while counting numbers.
+- **00:02 - 00:04**: Gumball is seen counting numbers.
+- **00:04 - 00:06**: Gumball is seen counting numbers.
+- **00:06 - 00:08**: Gumball closes his eyes and says, "What is this cheat for? It's for." Then, a tank briefly appears.
+- **00:08 - 00:10**: The tank rotates around with Gumball on top, and Gumball shouts triumphantly.
+- **00:10 - 00:13**: Gumball and Carrie are shown, and Gumball asks, "Tell me, is it wrong for a punk-rock chick?"
+- **00:13 - 00:15**: Anais is shown attempting to reach something, and Richard says, "Hold on, sweetie, let me get that for you."
+- **00:15 - 00:17**: Richard is seen lifting Anais.
+- **00:17 - 00:18**: Richard slams Anais down.
+- **00:18 - 00:19**: The screen shows the entrance to a building with a cashier. The background shows a cashier.
+- **00:19 - 00:20**: Gumball is sitting behind a desk.
+- **00:20 - 00:22**: Gumball closes his eyes and then opens them, saying, "I think we all know where this is going, so let's just skip to the end."
+- **00:22 - 00:24**: Gumball is seen raising his hand and then lowering it.
+- **00:24 - 00:26**: Gumball is shown in a dining hall, saying, "Oh, what was that?"
+- **00:26 - 00:27**: Gumball talks about having so much in common.
+- **00:27 - 00:29**: Gumball looks away and says, "Be my wife!"
+- **00:29 - 00:30**: A digital clock is shown displaying "05:00 PM".
+- **00:30 - 00:32**: Gumball reacts to the clock, exclaiming, "Oh my gosh, it's 5 PM!"
+- **00:32 - 00:34**: Gumball is seen running and shouting, with a trash bag in front of him.
+- **00:34 - 00:36**: Gumball is shown running and shouting excitedly.
+- **00:36 - 00:38**: Gumball is shown with sunglasses. His eyes glow red, and a targeting system appears over Darwin and Anais.
+- **00:38 - 00:40**: A light blue hand rises.
+- **00:40 - 00:41**: The light blue hand reveals to be Nicole.
+- **00:41 - 00:43**: Nicole turns her head around.
+- **00:43 - 00:45**: Darwin is standing while a voodoo doll of Gumball is on the floor, being poked by needles by a white fluffy creature. The creature speaks Spanish.
+- **00:45 - 00:47**: The creature apologizes and corrects itself.
+- **00:47 - 00:49**: The creature is seen stabbing the Gumball voodoo doll on the head and then on its body.
+- **00:49 - 00:50**: The creature throws the voodoo doll on the floor.
+- **00:50 - 00:51**: Richard is shown singing in a supermarket.
+- **00:51 - 00:52**: Richard continues singing, "My butt is so purple!"
+- **00:52 - 00:53**: Gumball shouts "Shame!"
+- **00:53 - 00:55**: Richard is eating popcorn and then he throws the popcorn bowl away. Anais is seen with a bowl of popcorn.
+- **00:55 - 00:56**: Richard says, "Hey guys, leave some for us!"
+- **00:56 - 00:58**: Gumball is running towards a floating blue balloon, and sings, "Now it's time for the daily last meal."
+- **00:58 - 00:59**: Gumball takes the balloon's eyes, and throws them.
+- **00:59 - 01:01**: Gumball laughs, and Darwin gets angry, "I am not making a scene!"
+- **01:01 - 01:03**: Darwin shouts, "I am not making a scene!"
+- **01:03 - 01:04**: Gumball in the classroom.
+- **01:04 - 01:06**: Gumball cries dramatically.
+- **01:06 - 01:08**: Gumball holds a fire extinguisher and looks at a burning computer.
+- **01:08 - 01:09**: The family reacts in shock.
+- **01:09 - 01:10**: The view of a school cafeteria, with some characters in the distance.
+- **01:10 - 01:12**: The cafeteria characters are walking around. One character says, "Hashtag MP3."
+- **01:12 - 01:13**: Gumball is shown confused.
+- **01:13 - 01:15**: The cafeteria character is walking around with a tray of food, saying, "Selfies, skinny jeans."
+- **01:15 - 01:17**: The cafeteria character continues, "How old is."
+- **01:17 - 01:19**: Gumball is seen looking at Penny and drooling. Penny is sitting on a chair.
+- **01:19 - 01:21**: Penny explains, "It's just, until you guys work it out, I kinda feel bad ruining your relationship."
+- **01:21 - 01:23**: Penny adds, "You two have something special, you know."
+- **01:23 - 01:25**: Penny smiles, and Gumball dramatically says, "Ahhhh!"
+- **01:25 - 01:27**: Gumball is excited.
+- **01:27 - 01:28**: The lights turn off and a red monster appears.
+- **01:28 - 01:30**: Gumball and Darwin at the breakfast table. Gumball says, "I mean just because we're alone doesn't mean that we have to be."
+- **01:30 - 01:31**: Gumball looks to his side and says, "That's weird."
+- **01:31 - 01:33**: Gumball says, "Oh my god!" and then smoke appears around him.
+- **01:33 - 01:35**: Gumball runs off and shouts, "Ahhh!"
+- **01:35 - 01:36**: Gumball is seen making noise at the door.
+- **01:36 - 01:37**: Mr. Robinson is speaking, "Sure to brainwash them."
+- **01:37 - 01:39**: Mr. Robinson says "But of course" and starts running while looking at his phone.
+- **01:39 - 01:40**: Mr. Robinson continues, "How to brainwash children."
+- **01:40 - 01:42**: Mr. Robinson starts typing on his phone.
+- **01:42 - 01:44**: Mr. Robinson is arrested and Darwin asks, "What did you do?"
+- **01:44 - 01:46**: Mr. Robinson replies, "I followed the advice online."
+- **01:46 - 01:48**: Mr. Robinson is driving a car with a worried look.
+- **01:48 - 01:50**: Mr. Robinson is driving, saying, "Turns out it's illegal to alter the minds of children using Cold War CIA techniques."
+- **01:50 - 01:52**: Darwin is shown washing his hands in the toilet.
+- **01:52 - 01:54**: Darwin dries his hands and looks around worried.
+- **01:54 - 01:55**: Gumball is sitting in the toilet.
+- **01:55 - 01:56**: Gumball laughs in the toilet.
+- **01:56 - 01:57**: An old TV is shown playing.
+- **01:57 - 01:59**: A hand is seen plugging in a socket.
+- **01:59 - 02:00**: Darwin is holding a phone and dialing a number.
+- **02:00 - 02:01**: Darwin screams, "Hey!"
+- **02:01 - 02:02**: A radar screen with planes is shown.
+- **02:02 - 02:04**: Mr. Small appears, saying, "Uh, that wasn't a video game."
+- **02:04 - 02:05**: Mr. Small points at the sky.
+- **02:05 - 02:07**: Darwin is pushing a shopping cart and then runs off.
+- **02:07 - 02:08**: Gumball is on the floor with a bone.
+- **02:08 - 02:10**: Gumball gets up, then crawls to the bed and bites it.
+- **02:10 - 02:12**: Gumball tries to eat the bed.
+- **02:12 - 02:14**: Gumball screams and bites the chair.
+- **02:14 - 02:16**: Gumball is seen biting the chair and stretching his arms.
+- **02:16 - 02:17**: Gumball puts his arms behind his head.
+- **02:17 - 02:19**: Gumball attempts to get on the chair.
+- **02:19 - 02:21**: Gumball shouts while sitting on the chair.
+- **02:21 - 02:23**: Gumball tries to eat the computer.
+- **02:23 - 02:24**: Gumball screams at the computer.
+- **02:24 - 02:26**: Gumball and Darwin are talking to Mr. Cuddles. Darwin asks, "What happened?"
+- **02:26 - 02:28**: Mr. Cuddles says, "I got a terrible review online."
+- **02:28 - 02:30**: Gumball asks, "One star?" Mr. Cuddles replies, "No, it was three stars, but the student made so many spelling errors, the school board sacked me anyway."
+- **02:30 - 02:32**: Mr. Cuddles pulls his beard away and asks, "Want to buy a pirate DVD?"
+- **02:32 - 02:34**: Gumball replies, "Absolutely not."
+- **02:34 - 02:36**: Gumball is seen crying, reflected in a window.
+- **02:36 - 02:38**: Gumball sees Darwin on a scooter outside.
+- **02:38 - 02:40**: A tiger appears and attacks Darwin.
+- **02:40 - 02:42**: Richard is seen peeking from behind the door.
+- **02:42 - 02:43**: Richard is seen peeking.
+- **02:43 - 02:44**: Richard and Nicole are seen looking at Darwin and Gumball.
+- **02:44 - 02:46**: Gumball is seen looking angry.
+- **02:46 - 02:48**: Gumball closes his eyes and then opens them.
+- **02:48 - 02:50**: The family looks sad for Darwin.
+- **02:50 - 02:52**: Gumball and Darwin run together. Gumball asks, "Why did you leave five hours to run to a park that's only three blocks away?"
+- **02:52 - 02:54**: Darwin explains, "Because she's got no legs! Then why are your feet coming out of your butt?"
+- **02:54 - 02:56**: Darwin is running and then Gumball runs too.
+- **02:56 - 02:58**: Darwin is on a fence.
+- **02:58 - 03:00**: Darwin sings, "Just don't want to do it."
+- **03:00 - 03:02**: Gumball shouts, "You want to because you're scared!"
+- **03:02 - 03:04**: Darwin replies, "No I'm not, no I'm not, no I'm not, no I'm not."
+- **03:04 - 03:05**: Gumball gets angry.
+- **03:05 - 03:06**: Gumball sighs.
+- **03:06 - 03:08**: Gumball starts climbing the gate.
+- **03:08 - 03:10**: Gumball struggles to climb.
+- **03:10 - 03:12**: Gumball is looking scared.
+- **03:12 - 03:14**: Gumball jumps off the gate.
+- **03:14 - 03:16**: Gumball screams, "Oh my god!" and then shouts, "Don't leave me, help me up! Don't leave me, you idiot!"
+- **03:16 - 03:18**: Richard sighs while sitting on the couch.
+- **03:18 - 03:20**: Richard is shown singing.
+- **03:20 - 03:22**: Richard is shown singing with his eyes closed.
+- **03:22 - 03:24**: Richard is seen singing.
+- **03:24 - 03:26**: Richard starts to levitate.
+- **03:26 - 03:28**: Richard looks confused.
+- **03:28 - 03:30**: Richard moves and is looking at something.
+- **03:30 - 03:32**: Richard looks shocked.
+- **03:32 - 03:34**: Darwin looks at the computer screen.
+- **03:34 - 03:36**: Darwin is seen jumping on his chair.
+- **03:36 - 03:38**: Darwin is seen buying something online.
+- **03:38 - 03:40**: Darwin is looking at the computer, then he walks off.
+- **03:40 - 03:42**: Darwin walks to the door and takes a package.
+- **03:42 - 03:44**: Darwin throws the package.
+- **03:44 - 03:46**: Darwin is shown with a broken plate and Richard looks shocked.
+- **03:46 - 03:48**: Darwin is seen throwing a plate at Richard.
+- **03:48 - 03:50**: Penny is seen reacting.
+- **03:50 - 03:52**: Penny is seen standing, and other characters are dancing.
+- **03:52 - 03:54**: The characters are dancing.
+- **03:54 - 03:56**: The characters are dancing and the camera pans up.
+- **03:56 - 03:58**: Penny is shown, and other characters are dancing.
+- **03:58 - 04:00**: Penny is shown, and other characters are dancing.
+- **04:00 - 04:02**: Other characters are dancing on the top floor.
+- **04:02 - 04:03**: Penny and Gumball are sitting at a diner.
+- **04:03 - 04:05**: Gumball is eating and Penny warns him, "Gumball, slow down, you'll get brain freeze."
+- **04:05 - 04:07**: Gumball replies, "I'll be fine. It's my special skill. I can eat as much ice cream as I want and never get."
+- **04:07 - 04:09**: Gumball is shown with a brain freeze.
+- **04:09 - 04:11**: Gumball gets a brain freeze and Penny reacts.
+- **04:11 - 04:12**: Gumball is seen getting brain freeze.
+- **04:12 - 04:14**: Gumball and Darwin are shown fighting, and Gumball says, "Weapon we want as well."
+- **04:14 - 04:16**: Gumball hits another character on the head, and Darwin is running.
+- **04:16 - 04:18**: Gumball and Darwin run off. Darwin shouts, "Darwin, quick, think of something awesome!"
+- **04:18 - 04:20**: Gumball asks, "What is it?" and Darwin says, "A stick!"
+- **04:20 - 04:22**: Darwin gives Gumball a stick, and Darwin replies, "You're gonna need to think of something much bigger."
+- **04:22 - 04:24**: Darwin and Gumball are running.
+- **04:24 - 04:26**: Darwin looks angry and Gumball looks scared.
+- **04:26 - 04:28**: Darwin trips and falls.
+- **04:28 - 04:30**: Gumball is looking at Darwin and says, "What's that?"
+- **04:30 - 04:32**: Darwin is angry.
+- **04:32 - 04:33**: Gumball and Darwin are running.
+- **04:33 - 04:35**: Gumball has a brain freeze.
+- **04:35 - 04:37**: Gumball and Darwin are looking at each other, and Darwin says, "I still sleep with the blanket I had as a baby."
+- **04:37 - 04:39**: Gumball replies, "Aw." Darwin then says, "I use it as a gag when I take people's pets hostage."
+- **04:39 - 04:41**: Gumball looks confused.
+- **04:41 - 04:43**: The screen shows a tweet, "CONGRATULATIONS! You've win E-phone black edition! pic.tweetr.tovu."
+- **04:43 - 04:45**: Another tweet appears saying, "Suuugoooiiii!!! Thank you @slevemmcdichal sempai! It's the first time someone makes Akane-chan a present. *Looks away all flustered*."
+- **04:45 - 04:47**: Another tweet appears, "You want to be friends with Akane?" and then another says, "WHAT?"
+- **04:47 - 04:49**: Another tweet appears, "WHAT?= My msg not going thrgh? Chat with me now and win $$$!"
+- **04:49 - 04:51**: Gumball looks at Darwin. Darwin is on his laptop, smiling.
+- **04:51 - 04:53**: Gumball says, "What?" Darwin replies, "Click link and talk."
+- **04:53 - 04:54**: Gumball clicks on the link.
+- **04:54 - 04:56**: The screen freezes with a distorted sound.
+
+
+SEGMENT 6 (Minutes 25-30)
+========================================
+0:00 - Huh!
+0:01 - Aah!
+0:02 - Aah!
+0:05 - Dude, what the what were you role-playing?
+0:06 - A bot. So even Anais's conversation wasn't real.
+0:09 - Esther is smashes his head on wall in anguish.
+0:13 - (Rumbling)
+0:14 - (Roars)
+0:15 - (Energy blast)
+0:16 - Ah!
+0:16 - (Whooshing, spinning)
+0:19 - (Gasping)
+0:21 - (Roars)
+0:23 - (Gasping)
+0:25 - (Growls)
+0:27 - I kind of expected something a little more dignified.
+0:30 - (Explosions, screams)
+0:31 - (Whirring, clicking)
+0:33 - (Clicking)
+0:35 - (Thud)
+0:36 - (Whirring)
+0:38 - (Crash)
+0:39 - Shh.
+0:41 - Fr-
+0:44 - (Trumpet blows)
+0:45 - (Gags)
+0:46 - Why don't you just say hi?
+0:47 - (Footsteps)
+0:51 - Hi, I'm Anais.
+0:53 - Hi, I'm Josh. Do you want to be friends?
+0:55 - (Fart)
+0:56 - (Squeals)
+0:56 - (Tires squeal)
+0:57 - Ah!
+0:58 - Course!
+0:59 - (Vacuum cleaner whirring, growling)
+1:00 - No, the vacuum cleaner nozzle!
+1:01 - Oh, yeah.
+1:02 - (Vacuum cleaner whirring)
+1:04 - (Crash)
+1:05 - (Distant scream)
+1:06 - differences to bed. I hope these words will make amends and we can be the best of friends.
+1:12 - (Confetti pops, roar)
+
+
+CONCLUSION
+==========
+Analysis complete. 6 video segments have been processed and summarized above.
+Each segment represents approximately 5 minutes of video content.
+
+Report generated by Video Analysis Service v1.0
